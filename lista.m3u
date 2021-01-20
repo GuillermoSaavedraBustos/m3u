@@ -1,103 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Lao TV", Locomotion | SD
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Lao TV", PORTAL FOXMIX | SD
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/b8fK0FK.png" group-title="Lao TV", TV+ | FHD
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/Hqlqsn3.png" group-title="Lao TV", Ahora Noticias | HD
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/mdkkCgQ.png" group-title="Lao TV", UES TV | HD
-http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/iFTIqPP.png" group-title="Lao TV", AE Radio | HD
-https://tls.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="Lao TV", Canal 9 | HD
-http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="Lao TV", TV Senado | HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1, tvg-logo="https://i.imgur.com/BllT63q.png" group-title="Lao TV", Sporting | HD
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/h7kkwPB.png" group-title="Lao TV", TV Salud | FHD
-https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="Lao TV", TVN Señal de Pruebas | HD
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/sQ3qoc8.png" group-title="Lao TV", STGO.TV | HD
-https://stv.janus.cl/playlist/stream.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/LEUJ5ll.png" group-title="Lao TV", CEAC TV | HD
-https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/OVOueyl.png" group-title="Lao TV", ADN (TV) | FHD (91.7 FM)
-https://unlimited2-cl.dps.live/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/TtrfkSG.png" group-title="Lao TV", Radio Carolina (TV) | HD (99.3 FM)
-http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/BT7EmIh.png" group-title="Lao TV", Infinita (TV) | FHD (100.1 FM)
-http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/67CpFkA.jpg" group-title="Lao TV", El Conquistador TV | SD | Concepcion
-http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/1Ct0fSh.png" group-title="Lao TV", Radio Camila TV | HD
-https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/4t7PbUy.png" group-title="Lao TV", Bio Bio TV | FHD
-https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/z8xNaUP.png" group-title="Lao TV", Radio Genial FM | HD | Coyhaique
-http://v3.tustreaming.cl/genialtv/live1/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/wLrV9tL.png" group-title="Lao TV", Romantica TV 104.1 FM | HD
-http://unlimited10-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/LSRwNhH.png" group-title="Lao TV", Pudahuel | SD | Providencia
-https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3/chunks.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/KBVGAXx.png" group-title="Lao TV", Estacion TV | HD
-https://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/v0xXCre.jpg" group-title="Lao TV", La Tercera TV* | HD
-https://unlimited10-cl.dps.live/lttv/lttv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/PtLIrrx.png" group-title="Lao TV", Holvoet TV | HD | Atacama
-https://unlimited1-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/OhvNlhb.jpg" group-title="Lao TV", Girovisual | HD | El Quisco
-https://unlimited1-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="Lao TV", Canal 9 | HD | Concepcion
-http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8?laope.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/XHChUjI.png" group-title="Lao TV", TVU | HD | Concepcion
-http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8?laope.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Lao TV", El Pinguino | HD | Punta Arenas
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/qpnkBzN.png" group-title="Lao TV", UATV | FHD | Temuco
-https://unlimited1-cl.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/LzOTwy6.png" group-title="Lao TV", Ufrovision | HD | Temuco
-http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/ezYteTW.png" group-title="Lao TV", VTV | SD | Aconcagua
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/ezYteTW.png" group-title="Lao TV", VTV Los Andes| HD | San Felipe
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/ezYteTW.png" group-title="Lao TV", VTV Viña | HD | Viña del Mar
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Lao TV", Canal 21 | HD | Chillan
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/IZmyR1B.png" group-title="Lao TV", ULagos TV | HD | Osorno
-http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/UT6HkBE.jpg" group-title="Lao TV", Campus TV | HD | Talca
-https://unlimited2-cl.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/J07hyHK.png" group-title="Lao TV", Alegria TV | SD
-https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/4unHN41.png" group-title="Lao TV", Canal Costa TV | HD
-http://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/yfwr5U5.png" group-title="Lao TV", TV5 Linares | HD
-https://unlimited1-cl.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1, radio="" tvg-logo="https://i.imgur.com/XsQotJL.png" group-title="Lao TV", Cappisima de Arica TV | HD
-http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/DeSfleJ.png" group-title="Lao TV", Pucon TV | FHD | Pucon
-https://unlimited2-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/OqlcPmb.jpg" group-title="Lao TV", Umag TV Digital| HD | Punta Arenas
-https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/pzjJ515.png" group-title="Lao TV", UTV | HD | San Clemente
-http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/5eMb8Vm.png" group-title="Lao TV", Buin Somos Todos | HD | Buin
-https://bst.buin.cl/0.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/AcJ8flT.jpg" group-title="Lao TV", Arab TV | FHD
-https://livefocamundo.com:8081/8160/index.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/nTs5S0r.png" group-title="Lao TV", Tec TV | FHD
-http://190.107.176.55:1935/live/tec-tv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/9EbpELd.jpg" group-title="Lao TV", Canal 5 | HD | Puerto Montt
-https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.imgur.com/u3SfJYn.png" group-title="Lao TV", ITV Patagonia | HD
-https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUfqpcX.jpg" group-title="Canales Chilenos Regionales", Puerta Norte TV | FHD | Arica
 https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="Canales Chilenos Regionales", Canal 9 | HD | Concepcion
@@ -120,174 +22,7 @@ http://v3.tustreaming.cl/tendenciastv/live1/playlist.m3u8
 http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rSZTJbH.png" group-title="Canales Chilenos Regionales", Mi Radio TV | HD | La Serena
 https://v2.tustreaming.cl/miradiotv/live1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xAsLsmQ.png" group-title="Canales de Animacion", Adult Swim: Williams Stream | FHD
-https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hWTUGF/NASA_logo.png" group-title="Canales de Cultura", NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="Canales de Cultura", Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cultura", TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" group-title="Canales de Cultura", Lifedesign
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2011/12/world-fashion-channel.jpg" group-title="Canales de Cultura", World Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://a1.mzstatic.com/us/r30/Purple6/v4/67/f6/4f/67f64f30-a881-ab3d-79b0-3169a8cca3ae/icon128-2x.png" group-title="Canales de Cultura", TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="Canales de Cultura", World Fishing Network
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="Canales de Cultura", London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cultura", 24 TV CULTURALES
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-oWwq4sz7xi8/AAAAAAAAAAI/AAAAAAAAAAA/EVeSO1aMco8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canales de Latinos", Canal Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/08/ThumbnailTEN1.jpg" group-title="Canales de Latinos", TEN Honduras
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Latinos", Multimedios Costa Rica
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canales de Latinos", CANAL 52 Ticavision (Costa Rica)
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_borealTV.png.670436e2072d13a97442d954c3c8a45e.png" group-title="Canales de Latinos", BOREAL Television
-https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="Canales de Latinos", HMTV 33
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899038610392981504/d5aPzZ3K_400x400.jpg" group-title="Canales de Latinos", MEGAVISION
-http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="Canales de Latinos", MICROvision 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4z0vpcQN4cM/WJfPZVIRX8I/AAAAAAAADO8/V8hxQ4oUkBwr9nkHcTHkFmF6vOUf2AoCQCLcB/s1600/Ready%2BTV%2BCanal%2B6.png" group-title="Canales de Latinos", READY TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2019/03/cropped-logo-tl28.png" group-title="Canales de Latinos", Telecanal 28
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telemilenio.jpg" group-title="Canales de Latinos", TL MILENIO
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/Tv-Plata.jpg" group-title="Canales de Latinos", TV PLATA
-http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
-#EXTINF:-1 tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="Canales de Latinos", VALLEVISION
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-#EXTINF:-1 tvg-logo="http://cableaudiovision.com.ar/grilla-web/canales/mvnueve.png" group-title="Canales de Latinos", Canal 9 Multivision
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/553578456013746176/ZiuKif1w.png" group-title="Canales de Latinos", El 13
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:-1 tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" group-title="Canales de Latinos", Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Latinos", TVEPACO VENEZUELA
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="Canales de Latinos", ATB Tv
-http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="Canales de Cine", Fox Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="Canales de Cine", Max Prime
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 tvg-logo="http://logowow.net/logos/lYUQ7TfdF.png" group-title="Canales de Cine", Panico
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png" group-title="Canales de Cine", Puñal Tv
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Canales de Cine", CINE +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/3129x1z_th.jpg" group-title="Canales de Cine", Zee mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pop
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon en el Mundo de los Muertos 1970
-https://archive.org/download/sanmumu70/sanmumu70.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra los Cazadores de Cabezas 1971
-https://archive.org/download/sancaz71/sancaz71.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en la Mision Suicida 1971
-https://archive.org/download/sancaz71/sanmis71.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra la Hija de Frankestein 1971
-https://archive.org/download/sanhifran71/sanhifran71.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra la Mafia del Vicio 1971
-https://archive.org/download/sanhifran71/sanmavi71.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y la Venganza de las Mujeres Vampiro 1970
-https://archive.org/download/sanmumu70/sanvevam70.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra los Jinetes del Terror 1970
-https://archive.org/download/sanca69/sanjite70.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon contra los Monstruos 1969
-https://archive.org/download/sanca69/sanblumon69.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y el Tesoro de Moctezuma 1968
-https://archive.org/download/sanbabra67/santemo68.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra Blue Demon en la Atlantida 1969
-https://archive.org/download/sanbabra67/sanbluat69.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en la Operacion 67 1967
-https://archive.org/download/saneses66/sanop67.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra el Espectro del Estrangulador 1966
-https://archive.org/download/saneses66/saneses66.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo y Blue Demon contra el Poder Satanico 1964
-https://archive.org/download/sanbru64/sanposat64.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Ataque de las Brujas 1964
-https://archive.org/download/sanbru64/sanbru64.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Museo de Cera 1963
-https://archive.org/download/sanmuce63/sanmuce63.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo contra las Momias de Guanajuato 1972
-https://archive.org/download/sanmog72/sanmog72.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo en el Hotel de la Muerte 1963
-https://archive.org/download/sanhom63/sanhom63.avi
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Santo frente a la muerte 1969
-https://archive.org/download/sanmu69/sanmu69.avi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="Canales de Noticias", The Weather Channel | HD
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tMrDZ6b.png" group-title="Canales de Noticias", Weather Nation | HD
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT News | HD
-https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT USA | HD
-https://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT UK | HD
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="Canales de Noticias", RT Docu | HD
-https://rt-doc.secure.footprint.net/1101.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV US | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Europe | HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Asia | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Australia | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Politics Live Event | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV US Live Event | HD
-https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV EMEA Live Event | HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="Canales de Noticias", Bloomberg TV Asia Live Event | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="Canales de Noticias", TV5 Monde Info | FHD
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Canales de Noticias", NHK World | HD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Canales de Noticias", NHK World (Alt)| HD
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Canales de Noticias", Deutsche Welle Latino | SD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Canales de Noticias", Deutsche Welle en Ingles | SD
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Canales de Noticias", Deutsche Welle | SD
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="Canales de Noticias", France 24 | HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gswmnWM.png" group-title="Canales de Noticias", France 24 en Español | HD
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tlU5Unv.png" group-title="Canales de Noticias", NOTV 41 New Orleans - Louisiana | HD
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oEFkLbn.jpg" group-title="Canales de Noticias", TBD | HD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFXK1X3.png" group-title="Canales de Noticias", CNBC World | SD
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Canales de Noticias", DW Amerika
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="Canales de Noticias", Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="Canales de Noticias", TELEFORMULA
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/surtv.mx/wp-content/uploads/2018/05/SURTV-logo-oficial-sin-fondo-copia-1.png" group-title="Canales de Noticias", Sur Tv
-https://59802217c6db4.streamlock.net/surtv/videosurtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="Canales de Noticias", Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 tvg-logo="http://static.azteca.com/imagenes/2018/47/hechosnocheenvivo-2272004.jpg" group-title="Canales de Noticias", Hechos Tv
-http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="Canales de Noticias", ABC NEWS
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mVTac/49057b2eb0.png" group-title="Canales de Noticias", Bloomberg Europe
@@ -446,10 +181,6 @@ http://ip.audiostreaming.cl:9764/;
 http://stream5.eltelon.com:8000/carnaval.aac
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Chilenas", Radio Portales (Valparaiso)
 http://stream5.eltelon.com/archi-portales.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5yVD0k.png" group-title="Radios Chilenas con Video", Duna (TV) | HD (89.7 FM)
-http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/67CpFkA.jpg" group-title="Radios Chilenas con Video", El Conquistador TV | HD (98.9 FM Concepcion)
-http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", Radio Hoy
 http://radio.radiohoy.cl:7002/
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", JPopsuki Radio
@@ -468,70 +199,6 @@ https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1146403839
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", Webcam OndaMadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="Canales de Musica", M2O TV | SD
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="Canales de Musica", Capital TV | SD
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89HKXuS.jpg" group-title="Canales de Musica", La Super TV | SD
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="Canales de Musica", Radio Contact Feel Good | HD
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Canales de Musica", Portal FoxMix | HD
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eqZ0en3.png" group-title="Canales de Musica", RUTV | HD
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3uI1rvO.jpg" group-title="Canales de Musica", VC Online | HD
-https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bCe9BVL.jpg" group-title="Canales de Musica", California Music Channel | HD
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uo5CkR.png" group-title="Canales de Musica", Box TV | SD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uo5CkR.png" group-title="Canales de Musica", Box Up Front | SD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uo5CkR.png" group-title="Canales de Musica", Box Hits | SD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9GGVuO.png" group-title="Canales de Musica", 4Music | HD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GuLT1.png" group-title="Canales de Musica", Kiss | HD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ee4rQ3u.png" group-title="Canales de Musica", Magic | HD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bF90pTe.png" group-title="Canales de Musica", Kerrang | HD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NAkaZk4.gif" group-title="Canales de Musica", Music Top | HD
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s38aC2U.png" group-title="Canales de Musica", MTV | HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mAdCfHs.png" group-title="Canales de Musica", Mezzo | SD
-http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="Canales de Musica", DJIng Avicii | HD
-https://www.djing.com/tv/session_avicii.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="Canales de Musica", DJIng Hedonist | HD
-https://www.djing.com/tv/s-28479-03-hedonist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0tuG2r.jpg" group-title="Canales de Musica", OCKO | SD
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8
-#EXTINF:-1, tvg-logo=g0owDLl.jpg"" group-title="Canales de Musica", GO-RTV | HD
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0tuG2r.jpg" group-title="Canales de Musica", Ocko Star | SD
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0tuG2r.jpg" group-title="Canales de Musica", Ocko Expres | SD
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZRrYhX.png" group-title="Canales de Musica", Rock TV | SD
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ymqDUXV.jpg" group-title="Canales de Musica", Radio Piterpan TV | HD
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w197826966.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C8YNW12.png" group-title="Canales de Musica", Radio Bella & Monella TV | HD
-https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w1052766946.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GauQ7G6.png" group-title="Canales de Musica", Radio Birikina TV | HD
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w130186106.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k148m11.jpg" group-title="Canales de Musica", Radio Sorriso TV | HD
-https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w800169359.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFf3X.png" group-title="Canales de Musica", Deejay TV | SD (Italia)
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0d9OjHQ.jpg" group-title="Canales de Musica", Company TV | HD
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica", MTV
@@ -732,59 +399,59 @@ https://www.youtube.com/watch?v=j3ZNuZBPPBE
 https://www.youtube.com/watch?v=mTJiJe-G4U4
 #EXTINF:-1 tvg-logo="http://veracidadchannel.com/_site/wp-content/uploads/2017/08/documentales-752x440.png",SECRETOS INCREIBLES DE EGIPTO
 https://www.youtube.com/watch?v=HfEuBKbKtbU
-#EXTINF:-1,Jasmin TV  group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", Jasmin TV 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,BRAZZERS 1  group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 1 
 http://static.brazzers.com/scenes/7119/180sec.flv
-#EXTINF:-1,BRAZZERS 2  group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 2 
 http://static.brazzers.com/scenes/5457/180sec.flv
-#EXTINF:-1,BRAZZERS 3  group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 3 
 http://static.brazzers.com/scenes/3327/180sec.flv
-#EXTINF:-1,BRAZZERS 4  group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 4 
 http://static.brazzers.com/scenes/3328/180sec.flv
-#EXTINF:-1,XXX AdultosVOD3D-1+18 3D  group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXX AdultosVOD3D-1+18 3D 
 http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-#EXTINF:-1,XXX AdultosVOD3D-10+18 3D  group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXX AdultosVOD3D-10+18 3D
 http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-#EXTINF:-1,XXXVOD3D-11+18 3D  group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-11+18 3D
 http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-#EXTINF:-1,XXXVOD3D-13+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-13+18 3D
 http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-#EXTINF:-1,XXXVOD3D-15+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-15+18 3D
 http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-#EXTINF:-1,XXXVOD3D-16+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos",XXXVOD3D-16+18 3D
 http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-#EXTINF:-1,XXXVOD3D-20+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-20+18 3D
 http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-#EXTINF:-1,XXXVOD3D-21+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-21+18 3D
 http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-#EXTINF:-1,XXXVOD3D-25+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-25+18 3D
 http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-#EXTINF:-1,XXXVOD3D-26+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-26+18 3D
 http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
-#EXTINF:-1,XXXVOD3D-3+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-3+18 3D
 http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
-#EXTINF:-1,XXXVOD3D-4+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-4+18 3D
 http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
-#EXTINF:-1,XXXVOD3D-5+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-5+18 3D
 http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-#EXTINF:-1,XXXVOD3D-6+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-6+18 3D
 http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-#EXTINF:-1,XXXVOD3D-7+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-7+18 3D
 http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-#EXTINF:-1,XXXVOD3D-8+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-8+18 3D
 http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-#EXTINF:-1,XXXVOD3D-9+18 3D group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", XXXVOD3D-9+18 3D
 http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
-#EXTINF:-1,Nubile2 group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", Nubile2
 http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucking_her_right_long_640.mp4
-#EXTINF:-1,Nubile3 group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", Nubile3
 http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
-#EXTINF:-1,Nubile5 group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", Nubile5
 http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
-#EXTINF:-1,R@tte e Sf@ndate group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", R@tte e Sf@ndate
 http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
-#EXTINF:-1,Filomena M@rtusano group-title="XXX Adultos"
+#EXTINF:-1 group-title="XXX Adultos", Filomena M@rtusano
 http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", hbo2 dual (eng esp) www.m3ugratis.com
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
@@ -796,18 +463,6 @@ http://85.132.81.184:8080/atv/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2 International  www.m3ugratis.com
 http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300" group-title="NACIONALES", Canal 10
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png" group-title="NACIONALES", Canal 26
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png" group-title="NACIONALES", TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", UMAG TV
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="NACIONALES", Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/latinosup.png" group-title="Musica", Latinos UP
@@ -824,8 +479,6 @@ http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL VASCO ESP www.m3ugratis.com
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas", La 1 HD
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RETRO MUSIC TV www.m3ugratis.com
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DEPORTES:AD Sports 1 HD
@@ -834,10 +487,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE:Tv Senado 2 SD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
-#EXTINF:-1 tvg-logo="http://www.graciatv.com/wp-content/uploads/2018/07/gif-gracia.gif" group-title="CHILE", Gracia TV
-http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/02/logo.jpg" group-title="CHILE", TVR
-https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSICA:PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSICA:VTV HD
@@ -876,23 +525,10 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLX TV
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NOTICIAS", DW Latino
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="NOTICIAS", CGTN 1
-https://livees.cgtn.com/1000e/prog_index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES", Telecaribe Deportes
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="INFANTILES", Tateti
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://fs1.tv/typo3temp/pics/e506ab8c9d.jpeg" group-title="MUSICA", FS1
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="MUSICA", Carolina TV (Chile)
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Holvoet TV Chile
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Latinos:TV Chile
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="MUSICA", PortalFoxMix Tv
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MILENIO TV
@@ -927,30 +563,12 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://iptv.premiumtutv.com/canal_116_azclick.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multimedios Laguna
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220759941.png" group-title="CHILE", Chilevisión
-https://mdstrm.com/live-stream/5988625542916c5029e26e36?jsapi=true&autoplay=true&youbora[extra][param1]=Chilevisi%C3%B3nm3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE", CHV
-https://mdstrm.com/live-stream/5988625542916c5029e26e36?jsapi=true&autoplay=true&youbora[extra][param1]=Chilevisi%C3%B3n
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 10
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&amp;set-cc-attribute=cc
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MULTIVISION
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", fox premium comedy (eng)
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600000623424/REXl4v9d-Zmh5eJ7t6a0kv3DQJ-ar75OxvHSDMOoD-rCZEBlfy3klt6VgFlAkUw5yZE=w300" group-title="MUSICA", U TV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/DEPORTES/5.png" group-title="DEPORTES", ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/718226978747387905/GyN1fJWx_400x400.jpg" group-title="DEPORTES", Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", PT: MASTER TV HD
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", SP: ALCARRIA TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Channels", Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kurt Cobain: Montage of Heck
@@ -997,51 +615,47 @@ https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg" group-title="MOVIES", Guardianes de la Galaxia 
 https://goo.gl/sFaEVq
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Logo_futuro.gif" group-title="MUSICA",Futuro 88.9 (Chile)
-http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES"  VOLVER AL FUTURO3
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 group-title="MOVIES" ,SPECTRE
 https://goo.gl/3KGMLf
 #EXTINF:-1 tvg-logo="http://dieorhack.com/wp-content/uploads/2015/02/The-Evil-Within-Hack-Cheats-Tool-Trainer-1024x576.jpg"  group-title="MOVIES",EL MAL DENTRO (2017)
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,U TV Live
+#EXTINF:-1 group-title="Without category",U TV Live
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Hotmixradio 80´S
+#EXTINF:-1 group-title="Without category", Hotmixradio 80´S
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
-#EXTINF:-1,Holvoet Copiapo
+#EXTINF:-1 group-title="Without category", Holvoet Copiapo
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
-#EXTINF:-1,VTV Valle de Aconcagua
+#EXTINF:-1 group-title="Without category", VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,TVO San Vicente de tagua Tagua
+#EXTINF:-1 group-title="Without category", TVO San Vicente de tagua Tagua
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-#EXTINF:-1,El Pinguino Tv Punta Arenas
+#EXTINF:-1group-title="Without category", El Pinguino Tv Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Comunion TV
+#EXTINF:-1 group-title="Without category", Comunion TV
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,CTNi
+#EXTINF:-1 group-title="Without category", CTNi
 http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,LATINO:Deutsche Welle
+#EXTINF:-1 group-title="Without category",LATINO:Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1,Latinos:TLX
+#EXTINF:-1 group-title="Without category",Latinos:TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
-#EXTINF:-1,MUSICA:Teleritmo
+#EXTINF:-1 group-title="Without category",MUSICA:Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,LATINOS:Ten SD
+#EXTINF:-1 group-title="Without category",LATINOS:Ten SD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
-#EXTINF:-1,telemundo
+#EXTINF:-1 group-title="Without category",telemundo
 http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png"
-#EXTINF:-1,TELERITMO
+#EXTINF:-1 group-title="Without category",TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
-#EXTINF:-1,TELERITMO2
+#EXTINF:-1 group-title="Without category",TELERITMO2
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?
-#EXTINF: -1, Telemax HD
+#EXTINF: -1 group-title="Without category", Telemax HD
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1,MUNDO +
+#EXTINF:-1 group-title="Without category",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
@@ -1073,79 +687,21 @@ https://i.imgur.com/KOkrgKs.png"
 http://2.bp.blogspot.com/_744KXmFCyEo/S5vk5r3KowI/AAAAAAAAAIQ/-bJJYN13CK8/w1200-h630-p-nu/agro_canal.png"
 #EXTINF:-1,Enlace Juvenil
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/02/Logo315x315-300x300-200x200.png" group-title="MUSICA",TVR
-https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.wiesnerdesign.com/lamegamundial/wp-content/uploads/2016/01/logo.png" group-title="MUSICA",La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/cap_zpsaosigst3.png" group-title="REGIONALES",Cappissima Multimedial Arica
-http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/2440/square_150x150-2.jpg" group-title="REGIONALES",AM Tv Antofagasta
-http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8
-#EXTINF:-1 tvg-logo="http://quintatv.cl/wp-content/uploads/2017/05/logo-negro.png" group-title="REGIONALES",Quinta Tv
-https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="REGIONALES", Gracia Tv
-http://v3.tustreaming.cl/graciatv/live1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.rodeoenvivo.cl/portal/wp-content/uploads/2016/05/BANNER_CAMPO_ABIERTO_TV.png" group-title="REGIONALES",Campo Abierto TV  Huechuraba
-http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/Tec%20Tv.png" group-title="REGIONALES",TEC Television Temuco
-http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
-#EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="REGIONALES",Rocco Tv Coyhaique
-http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8
 #EXTINF:0 type="stream" channelId="-1", Discovery Channel--
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1,Ready TV Canal 6
+#EXTINF:-1 group-title="Without category", Ready TV Canal 6
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1,rcg tv
+#EXTINF:-1 group-title="Without category", rcg tv
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w828804215.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFqNuXt.png" group-title="Noticias",Catve HD
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias",DW NEWS
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
-#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/482626826/152b1f68aaae4be744bd4da074510333?v=1" group-title="Noticias",CBN
-http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.brasil247.com/images/cache/1000x357/crop/images%7Ccms-image-000563543.jpg" group-title="DOCUMENTARIOS",Grandes golpes
-http://archive.org/download/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5bHistory%20Channel%20HD%5d.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QRYHKL2UxhE/hqdefault.jpg" group-title="DOCUMENTARIOS",Filhos De Galileu
-http://archive.org/download/FilhosDeGalileuDocumentrio/Filhos%20de%20Galileu%20-%20Document%c3%a1rio.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a/EGih9.jpg" group-title="DOCUMENTARIOS",Stephen Hawking e as Células-Tronco
-http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
-#EXTINF:-1 tvg-logo="https://portal2013br.files.wordpress.com/2015/10/17.jpg?w=731&h=541" group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
-http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
-#EXTINF:-1 tvg-logo="http://www.ufrgs.br/projetoamora/atividades-integradas/atividades-integradas-2011/um-pouco-da-historia-da-terra" group-title="DOCUMENTARIOS",A HISTÓRIA DA TERRA
-http://archive.org/download/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TERRA%20-%20Dublado.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos - hipoxia
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos -frio
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos -tempo
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jHNwjEEsynQ/maxresdefault.jpg" group-title="DOCUMENTARIOS",Telescópio O universo revelado
-http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
-#EXTINF:-1 tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_cc4eda6329ce619bbb8dd23c0f51b4cc3b857c13.jpg" group-title="DOCUMENTARIOS",Terceiro Reich: Ascensão
-http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
-#EXTINF:-1 tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_cc4eda6329ce619bbb8dd23c0f51b4cc3b857c13.jpg" group-title="DOCUMENTARIOS",Terceiro Reich: Queda
-http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",HBO 2
-http://archive.org/download/54848441_201808/54848441.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/55/Filhas_do_Fogo_CN_0570.jpg/220px-Filhas_do_Fogo_CN_0570.jpg" group-title="CLASSICOS",As Filhas Do Fogo (1978)
-http://archive.org/download/AsFilhasDoFogo1978/As%20Filhas%20do%20Fogo%201978.mp4
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV Musicas", ONE 1 HD
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV Musicas", ONE 4 HD
-http://rtmp.one.by:2300
-#EXTINF:-1 tvg-logo="https://goo.gl/nxxEMk" group-title="VARIEDADES", DW
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1,INFO FILM MAX TV
+#EXTINF:-1 group-title="Without category", INFO FILM MAX TV
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bae1237351be2d5f2b217602a5187651.jpg" group-title="Movies",Classique TV
-http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?MEGAMAXIPTV
 #EXTINF:-1 tvg-id="M20" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="M20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo-m2o-plain-nero.jpg" group-title="Musica",M20
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-id="TOP Sound BH" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TOP Sound BH" tvg-logo="http://nextgen-iptv.com/logo/logo-topsound.png" group-title="Musica",Top Sound Music Srbija Tv
 http://bit.ly/1TGa5P9
-#EXTINF: -1, DC Eagle Cam A
+#EXTINF: -1 group-title="Without category", DC Eagle Cam A
 https://americaneagle-lh.akamaihd.net/i/AEF_DC1@31049/master.m3u8
-#EXTINF: -1, DC Eagle Cam B
+#EXTINF: -1 group-title="Without category", DC Eagle Cam B
 https://americaneagle-lh.akamaihd.net/i/AEF_DC2@31050/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.latinosup.com/site/wp-content/uploads/2018/06/Latinos_Up_Logo.png",LATINO UP TV HD
 https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
@@ -1153,18 +709,12 @@ https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/super-tv-55-300x169.jpg",SUPERTV 55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w704544947.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VmZX2A5.png",SKY FOLK
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VmZX2A5.png" group-title="Without category", SKY FOLK
 http://us.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/kr-ebs-kids.jpg",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yCQcrYJ.png" group-title="MUSICA",M2O TV HD
-http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/2000px-The_Weather_Channel_logo_2005-present.svg.png", Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA tv HD
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 2
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
 #EXTINF:-1,24h NOTICIAS
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
 #EXTINF:-1,24h
@@ -1233,26 +783,8 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,tvg-id="NB Comedy Channel" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="NB Comedy Channel" tvg-logo="https://pbs.twimg.com/profile_images/848073611651022849/1iVBmJoe_400x400.jpg",NB Comedy Channel
 http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="USA",CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="USA",Fox Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="Movies",Dubai One 
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/bae1237351be2d5f2b217602a5187651.jpg" group-title="Movies",Classique TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G4C6z9h.jpg" group-title="USA",SafeTV4U2
-http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1,B4U MOVIE
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
-#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet 
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Animal Planet 
-http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="USA",Cartoon Network UK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="DaVinciLearning" tvg-name="da-vinci-learning" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="USA",Da Vinci Learning 
-http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
 #EXTINF:-1, STAR TV 
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:-1,pikacu
@@ -1260,21 +792,13 @@ http://bit.ly/23KJOU3
 #EXTINF:-1,pac-man
 http://bit.ly/1QHPOG4
 #EXTINF:-1,marvel heros
-http://bit.ly/1nP8dYr   
-#EXTINF:0 tvg-id="avi" group-title="CRTANI FILMOVI",Madagaskar (2005) HR Sink.
-http://movie.bossna-caffe.com/CrtaniAdmin/8726.avi
-#EXTINF:0 tvg-id="avi" group-title="CRTANI FILMOVI",Robinson Crusoe (2016) HR Sink.
-http://movie.bossna-caffe.com/CrtaniAdmin/8653.avi
-#EXTINF:0 tvg-id="avi" group-title="CRTANI FILMOVI",Spašavanje Djeda Mraza (2014) HR Sink.
-http://movie.bossna-caffe.com/CrtaniAdmin/8662.avi
+http://bit.ly/1nP8dYr
 #EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/11.png" group-title="Musica", M2O TV Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: LA MINA
 https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G98R2WReTKs/maxresdefault.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: MATRIX
 http://www.deadlyblogger.com/NewRelease/matrix1.mp4
-#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: SAHARA
-https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 #EXTINF:-1,La Forma del Agua SUBTITULADO |
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:-1,Varias Lat:Volver al Futuro III
@@ -1395,36 +919,14 @@ http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w47791226
 http://stream.grupotelemicro.com/13.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/2000px-Telemundo_logo_2012.svg.png" group-title="Without category", Telemundo
 http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://www.iteamsatellitetv.com/images/golf-channel-logo.jpg" group-title="DEPORTES", GOLF CHANNEL
-http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37mA0VZ.png" group-title="COPA AMERICA", Copa America
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", EUROSPORT2
-http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", Fox Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM", UNIVERSAL
-http://161.0.157.5/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png" group-title="DEPORTES", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/fr/BFMSPORT.png" group-title="DEPORTES", BFM Sport
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://cappissimamultimedial.cl/radio/wp-content/themes/cappissima/images/logo-cappissima.png" group-title="CHILE", Multimedia Cappissima TV
-http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H3jMiCj.png" group-title="CHILE", Pintana TV
-http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png" group-title="CHILE", TVO San Vicente
-http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Orbit Tv
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8?ixtlaarreola.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Miami Tv México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hype Tv!
 http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/DEPORTES/3.png" group-title="DEPORTES", ESPN
-http://161.0.157.5/PLTV/88888888/224/3221226899/index.m3u8
 #EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png" group-title="ENTRETENIMIENTO",ENTRETENIMINETO: Canal 26
 http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",ENTRETENIMINETO: Chicos IPE
@@ -1433,28 +935,10 @@ http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=cdnh4.iblups.com/hl
 http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",ENTRETENIMINETO: Wow tv
 http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",DEPORTES: BOX HITS
-http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
-#EXTINF:-1 tvg-logo="http://www.rodeoenvivo.cl/portal/wp-content/uploads/2016/05/BANNER_CAMPO_ABIERTO_TV.png" group-title="CHILE",CL: Campo Abierto TV Huechuraba
-http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.graciatv.com/wp-content/uploads/2018/07/gif-gracia.gif" group-title="CHILE",CL: Gracia TV
-http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CHILE",CL: TV Senado HD
-http://tvpremiumhd.club/lista-gratuita/191717/on/bi.php?id=2KpVSoq
-#EXTINF:-1 tvg-logo="http://www.utvsanclemente.cl/img/logo-utv-sc.png" group-title="CHILE",CL: UTV San Clemente
-http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=v3.tustreaming.cl/utvsc/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png"" group-title="CHILE",CL: VTV
-http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",CL: VTV Aconcagua
-http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/881801937892540417/war8WAEA_400x400.jpg" group-title="LATVIA",LATVIA: Riga TV24
 http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=player.tvnet.lv/live/amlst:11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="LATVIA",LATVIA: TV Net
 http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="MUSICA",MUSICA: M2O TV
-http://tvpremiumhd.club/lista-gratuita/191717/on/bi.php?id=2IILfjB
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tMrDZ6b.png" group-title="NOTICIAS",NOTICIAS: Weather Nation HD
-http://tvpremiumhd.club/lista-gratuita/191717/on/iptv.php?id=cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a
 #EXTINF:-1 tvg-logo="https://i2.wp.com/somewhatnerdy.com/wp-content/uploads/2017/03/The-Evil-Within-Movie-Poster.jpg" group-title="VOD A LA CARTA",The Evil Within (2019)
 http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi
 #EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="VOD A LA CARTA",The Purge (2013)
@@ -1547,200 +1031,6 @@ http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=ia902807.us.archive
 http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",EL MAL DENTRO (2017)
 http://tvpremiumhd.club/lista-gratuita/191717/on/live.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-#EXTINF:0 tvg-id="ext" group-title="Channels",PortalFoxMix Tv
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="Channels",Digital 15
-http://bit.ly/2CLgJ6u
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ovacion
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 6
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO:Cartoon Network
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
-http://vignette1.wikia.nocookie.net/inciclopedia/images/7/7a/Telemundo_tv_logo.png/revision/latest?cb=20071120204626,Telemundo
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO:TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:0 tvg-id="dwelle-en" group-title="Channels",Deutsche Welle
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&play-only=primary&rebase=on%20
-#EXTINF:0 tvg-id="ext" group-title="Channels",Telenord
-http://www.coninfo.net:1935/previsoratv/live/chunklist_w1998857033.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Santa María TV
-http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CEPTV CHACO
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_151_av-p.m3u8?sd=6&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 9 DE SALTA
-http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDM TV
-http://205.164.56.130:1935/marcos536/marcos536/chunklist_w191773249.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CTN Internacional
-http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w250775975_b1564000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 7 ESPAÑA
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO NOVA MISIONES
-http://streamyes.alsolnet.com/radionovatv/live/chunklist_w592590970.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBN PUERTO RICO
-http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w326834189_b1564000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Armenian Public - 1 TV
-https://amtvdvr.tulix.tv/am2abr/tracks-v3a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aliento Vision
-http://livestreamcdn.net:1935/AlientoSD/AlientoSD/chunklist_w359510231.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aliento Vision 2
-http://184.164.158.202:1936/48/smil:48.smil/chunklist_w2065903390_b1564000_sleng.m3u8
-#EXTINF:0 tvg-id="26TV.ar" group-title="Channels",Canal 26
-http://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Without category:History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",INFANTILES:AnimeXtv
-http://locomotiontv.com/envivo/test/animextv_alpha_131017.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ENTRETENIMIENTO:Uestv HD www.
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL CHANNEL
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL BHTV
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MICRO VISION
-http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
-#EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",AXS TV
-http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Combat Go
-http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
-#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",TVE 24H
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-#EXTINF:0 tvg-id="CanalParlamento.es" group-title="Channels",Canal Parlamento
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Entertainment TV:ITV 4 (VOD)
-https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
-#EXTINF:0 tvg-id="DeutscheWelle.de" group-title="Channels",DW NEWS
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDM
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDM 2
-http://bit.ly/2qwNmPB
-#EXTINF:0 tvg-id="ext" group-title="Channels",49 TV
-http://bit.ly/2CZmRFb
-#EXTINF:0 tvg-id="ext" group-title="Channels",Teleislas
-http://bit.ly/2CKGOT8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 8 Italia
-http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",RETV
-http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
-#EXTINF:0 tvg-id="Tv8.it" group-title="ENTRETENIMIENTO",TV 8
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:0 tvg-id="TVLux.be" group-title="ENTRETENIMIENTO",TV Lux
-http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
-#EXTINF:0 tvg-id="DDNews.in" group-title="ENTRETENIMIENTO",DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",ET Now
-http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
-#EXTINF:0 tvg-id="92News.uk" group-title="ENTRETENIMIENTO",92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Eye 95 TV (US)
-http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Radio Farda
-http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",KTV 1*
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",KTV 2
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
-#EXTINF:0 tvg-id="CBCNewsNetwork.ca" group-title="ENTRETENIMIENTO",CBC
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
-#EXTINF:0 tvg-id="NESSMA.tn" group-title="ENTRETENIMIENTO",Nessma*
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
-#EXTINF:0 tvg-id="rtvint" group-title="ENTRETENIMIENTO",RTV
-http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",TV Edukasi
-http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",CBS TV
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Mediacorp Channel 5
-http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Mediacorp Channel 8
-http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Mediacorp Channel U
-http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Panda Cam 1
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Panda Cam 2
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",DC Eagle Cam
-http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",~ World News ~
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Radio Capital TiVu
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Chile 5 FTA
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
-#EXTINF:0 tvg-id="CompanyTV.it" group-title="ENTRETENIMIENTO",Company TV
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:0 tvg-id="CredoTV.ro" group-title="ENTRETENIMIENTO",Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:0 tvg-id="DAYSTAR.uk" group-title="ENTRETENIMIENTO",Daystar
-https://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Deutsche Welle (DE)
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Deutsche Welle (USA)
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0 tvg-id="GrandLilleTV.fr" group-title="ENTRETENIMIENTO",Grand Lille TV
-http://str81.creacast.com/grandlilletv/high/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",History Lab
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",HIT Channel (Ru)
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",hr (Ger)
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:0 tvg-id="jctv" group-title="ENTRETENIMIENTO",JuCeTV US
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-#EXTINF:0 tvg-id="RadioContactVision.be" group-title="ENTRETENIMIENTO",Radio Contact Vision
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:0 tvg-id="Rai5.it" group-title="ENTRETENIMIENTO",Rai 5
-http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",RE TV (Latv)
-http://edge-telia2.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",SKY TG24 Italy
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:0 tvg-id="Smile.hu" group-title="ENTRETENIMIENTO",Smile of a Child
-http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",TSN Tele Sondrio News (It)
-http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",TV 10 Sweden
-http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",TV Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:0 tvg-id="TVtrwam.pl" group-title="ENTRETENIMIENTO",TV TRWAM
-http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",VISUAL RADIO
-http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="ENTRETENIMIENTO",Multimedios Monterrey [SD]
-http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHILE",TVN SERVICIOS 3
-http://mdstrm.com/live-stream-playlist/5a0471c2f8692a092d436768.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHILE",TVN SERVICIOS 4
-http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHILE",AM Canal
-http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CHILE",TecTV (Opt-1)
-http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LATINOS",Latinos UP Tv
-https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w6042364.m3u8
-#EXTINF:0 tvg-id="TelemundoEast.us" group-title="LATINOS",Telemundo Full HD www.
-http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/1080/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LATINOS",USA:Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LATINOS",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",Music Channels:Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",Entertainment TV:Comet (Geo)
-https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",Entertainment TV:Charge (Geo)
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828
 #EXTINF:-1 tvg-logo="http://bit.ly/2oiY4qy",Volver al futuro 3
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
 #EXTINF:-1,.:volver al futuro 3
@@ -2119,92 +1409,8 @@ https://archive.org/download/markofzorro-1920/markofzorro_512kb.mp4
 https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
 #EXTINF:-1 tvg-logo="https://f8b5db1e1f00cea72855-84a7d838f746c494b9783302a5a26cce.ssl.cf5.rackcdn.com/wp-content/uploads/2017/02/The-Wonderful-Wizard-of-Oz-1910-movie-poster.jpg" group-title="MOVIES",The Wonderful Wizard of Oz (1910)
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4oding].mp4
-#EXTINF:-1 tvg-logo="http://www.zoom.lk/forums/downloads/subs/Sahara17/tanva10.jpg" group-title="SPANISH",Sahara (2017)
-https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg" group-title="SPANISH",Sand Castle (2017)
-https://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YaCxu1RWA5I/WQCq6mASo0I/AAAAAAAAYdc/TI9FfL_x1uUBijtS37W_ntkieg8B5igTgCLcB/s1600/Sandy%2BWexler.jpg" group-title="SPANISH",Sandy Wexler (2017)
-https://ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
-#EXTINF:-1 tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg" group-title="SPANISH",Angry Birds (2016)
-https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6yf5tQgzbLj1HomN6vGqfBggpx9.jpg" group-title="SPANISH",Nocturnal Animals (2016)
-https://archive.org/download/NocturnalAnimals20161080pFULLHD/Nocturnal%20Animals%20(2016)%201080p%20FULL%20HD.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6yf5tQgzbLj1HomN6vGqfBggpx9.jpg" group-title="SPANISH",Nocturnal Animals (2016)*
-https://archive.org/download/NocturnalAnimals20161080p60FPS/Nocturnal%20Animals%20(2016)%201080p%2060%20FPS.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1sHSnRBjxL._SL1500_.jpg" group-title="SPANISH",Pet (2016)
-https://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
-#EXTINF:-1 tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg" group-title="SPANISH",Rules Don't Apply (2016)
-https://archive.org/download/RulesDontApply20161080pFULLHD/Rules%20Dont%20Apply%20(2016)%201080p%20FULL%20HD.mp4
-#EXTINF:-1 tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg" group-title="SPANISH",Rules Don't Apply (2016)*
-https://archive.org/download/RulesDontApply20161080p60FPS/Rules%20Dont%20Apply%20(2016)%201080p%2060%20FPS.mp4
-#EXTINF:-1 tvg-logo="http://museumweek2015.org/wp-content/uploads/2015/07/Ant-Man-2015-cover.jpg" group-title="SPANISH",Ant Man (2015)
-https://archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
-#EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="SPANISH",The Purge (2013)
-https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
-#EXTINF:-1 tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg" group-title="SPANISH",Under the Sea 3D (2009)
-https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg" group-title="SPANISH",La Vendedora de Rosas (1998)
-https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
-#EXTINF:-1 tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/childs-play-2-poster.jpg" group-title="SPANISH",Child's Play 2 (1990)
-https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
-#EXTINF:-1 tvg-logo="http://www.incaatv.gov.ar/wp-content/uploads/2015/05/Rodrigo-D-no-futuro.jpg" group-title="SPANISH",Rodrigo D - No futuro (1990)
-https://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg" group-title="SPANISH",Back to the Future Part II (1989)
-https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" group-title="SPANISH",Child's Play (1988)
-https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg" group-title="SPANISH",Porky's Revenge (1985)
-https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="SPANISH",Vacaciones en Acapulco (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
-#EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg" group-title="SPANISH",La Presidenta Municipal (1975)
-https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/dM4R0r1.jpg" group-title="SPANISH",El Libro de Piedra (1969)
-https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/kpaLtXk.jpg" group-title="SPANISH",Caperucita y Pulgarcito Contra los Monstruos (1960)
-https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/El_dolor_de_pagar_la_renta.jpg/200px-El_dolor_de_pagar_la_renta.jpg" group-title="SPANISH",El Dolor de Pagar la Renta (1960)
-https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/U9RiSMD.jpg" group-title="SPANISH",Macario (1960)
-https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg" group-title="SPANISH",Angelitos del Trapecio (1959)
-https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/e4BzmDB.jpg" group-title="SPANISH",Yo Soy Muy Macho (1953)
-https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/gVCnp2P.jpg" group-title="SPANISH",El Bello Durmiente (1952)
-https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/OOGQjcp.jpg" group-title="SPANISH",Simbad el Mareado (1950)
-https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/lzZMzXw.jpg" group-title="SPANISH",La Familia Perez (1949)
-https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/JzyYqis.jpg" group-title="SPANISH",Los Tres Huastecos (1948)
-https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/aOy8B0T.jpg" group-title="SPANISH",Nosotros - los Pobres (1948)
-https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/9ZOU6Hq.jpg" group-title="SPANISH",Si Adelita se Fuera con Otro (1948)
-https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/3S8RST5.jpg" group-title="SPANISH",Ustedes - los Ricos (1948)
-https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC Horizon - Clean Eating - The Dirty Truth (2017)
-https://archive.org/download/BBCHorizonCleanEatingTheDirtyTruthFullDocumentary/BBC%20Horizon%20-%20Clean%20Eating%20The%20Dirty%20Truth%20-%20Full%20Documentary.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC - Ants – Nature’s Secret Power (2016)
-https://archive.org/download/AntsSecretPowerOfTheNatureBBCDocumentary2016/Ants%20Secret%20Power%20of%20the%20Nature%20-%20BBC%20Documentary%202016.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC - The Truth About... Alcohol (2016)
-https://archive.org/download/TheTruthAboutAlcoholBBCDocumentary2016/The%20Truth%20About%20Alcohol%20BBC%20Documentary%202016.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC - How Hackers Changed the World (2015)
-https://archive.org/download/youtube-OfCewYcnSu4/BBC_Documentary_-_How_Hackers_Changed_the_World_Full-OfCewYcnSu4.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC - USA vs China - A War without Limits (2015)
-https://archive.org/download/USAVsCHINABBCDocumentary2016/USA%20vs%20CHINA%20-%20%20BBC%20Documentary%202016.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC - Russia's Toughest Prison (2014)
-https://archive.org/download/RussiasToughestPrisonBBCDocumentaryHD2016/Russia's%20Toughest%20Prison%20-%20BBC%20Documentary%20HD%202016.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC - The Ottomans - Europe's Muslim Emperors - Part 01 (2013) [AR-Subs]
-https://archive.org/download/BBC.The.Ottomans.Europes.Muslim.Emperors.1of3.720p.MyEgY.com.Merna/BBC.The.Ottomans.Europes.Muslim.Emperors.1of3.720p.MyEgY.com.Merna.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC - The Ottomans - Europe's Muslim Emperors - Part 02 (2013) [AR-Subs]
-https://archive.org/download/BBC.The.Ottomans.Europes.Muslim.Emperors.1of3.720p.MyEgY.com.Merna/BBC.The.Ottomans.Europes.Muslim.Emperors.2of3.720p.MyEgY.com.Merna.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC - The Ottomans - Europe's Muslim Emperors - Part 03 (2013) [AR-Subs]
-https://archive.org/download/BBC.The.Ottomans.Europes.Muslim.Emperors.1of3.720p.MyEgY.com.Merna/BBC.The.Ottomans.Europes.Muslim.Emperors.3of3.720p..MyEgY.com.Merna.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",Discovery Channel - Last Day of the Dinosaurs (2010)
-https://archive.org/download/Discovery.ChannelLast.Day.of.the.Dinosaurs2010.720p.DTS/Discovery.Channel%20-%20Last.Day.of.the.Dinosaurs%20-%202010.720p.DTS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lMx8bqL.jpg" group-title="COSMOS",Cosmos - A Spacetime Odyssey - 01 Standing Up in the Milky Way (2014)
 https://archive.org/download/Cosmos.A.SpaceTime.Odyssey.S01.720p.BluRay.x264/Cosmos.A.SpaceTime.Odyssey.S01E01.720p.BluRay.x264.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lMx8bqL.jpg" group-title="COSMOS",Cosmos - A Spacetime Odyssey - 02 Some of the Things That Molecules Do (2014)
@@ -2231,586 +1437,6 @@ https://archive.org/download/Cosmos.A.SpaceTime.Odyssey.S01.720p.BluRay.x264/Cos
 https://archive.org/download/Cosmos.A.SpaceTime.Odyssey.S01.720p.BluRay.x264/Cosmos.A.SpaceTime.Odyssey.S01E12.720p.BluRay.x264-WiKi.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lMx8bqL.jpg" group-title="COSMOS",Cosmos - A Spacetime Odyssey - 13 Unafraid of the Dark (2014)
 https://archive.org/download/Cosmos.A.SpaceTime.Odyssey.S01.720p.BluRay.x264/Cosmos.A.SpaceTime.Odyssey.S01E13.720p.BluRay.x264-WiKi.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e01 Challenges of Life (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e01.Challenges.of.Life.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e02 Reptiles and Amphibians (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e02.Reptiles.And.Amphibians.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e03 Mammals (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e03.Mammals.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e04 Fish (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e04.Fish.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e05 Birds (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e05.Birds.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e06 Insects (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e06.Insects.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e07 Hunters and Hunted (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e07.Hunters.And.Hunted.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e08 Creatures of the Deep (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e08.Creatures.of.the.Deep.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e09 Plants (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e09.Plants.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EPzzdu5.jpg" group-title="BBC LIFE",BBC Life - s01e10 Primates (2009)
-https://archive.org/download/LifeBBCDocumentry2009720pH264/BBC.Life.s01e10.Primats.2009.HDTV.720p.x264.AC3.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-01 The Mystery of the Haunted House (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-01%20-%20The%20Mystery%20of%20the%20Haunted%20House%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-02 The Mystery of Pirate's Cove (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-02%20-%20The%20Mystery%20of%20Pirate%27s%20Cove%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-03 The Mystery of Witches' Hollow (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-03%20-%20The%20Mystery%20of%20Witches%27%20Hollow%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-04 The Mystery of the Diamond Triangle (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-04%20-%20The%20Mystery%20of%20the%20Diamond%20Triangle%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-05 The Disappearing Floor (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-05%20-%20The%20Disappearing%20Floor%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-06 The Secret of the Whispering Walls (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-06%20-%20The%20Secret%20of%20the%20Whispering%20Walls%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-07 The Flickering Torch Mystery (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-07%20-%20The%20Flickering%20Torch%20Mystery%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-08 A Haunting We Will Go (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-08%20-%20A%20Haunting%20We%20Will%20Go%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-09 The Mystery of the Flying Courier (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-09%20-%20The%20Mystery%20of%20the%20Flying%20Courier%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-10 The Mystery of the Fallen Angels (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-10%20-%20The%20Mystery%20of%20the%20Fallen%20Angels%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-11 Wipe-Out (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-11%20-%20Wipe%20Out%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-12 The Mystery of the Ghostwriter's Cruise (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-12%20-%20The%20Mystery%20of%20the%20Ghostwriter%27s%20Cruise%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-13 The Secret of the Jade Kwan Yin (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-13%20-%20The%20Secret%20of%20the%20Jade%20Kwan%20Yin%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 01-14 The Mystery of the Solid Gold Kicker (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2001/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%201-14%20-%20The%20Mystery%20of%20the%20Solid%20Gold%20Kicker%20-%20DVD2DivX.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-01 The Hardy Boys and Nancy Drew Meet Dracula [Part 01] (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-01%20-%20The%20Hardy%20Boys%20and%20Nancy%20Drew%20Meet%20Dracula%20%7Bpart1of2%7D%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-02 The Hardy Boys and Nancy Drew Meet Dracula [Part 02] (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-02%20-%20The%20Hardy%20Boys%20and%20Nancy%20Drew%20Meet%20Dracula%20%7Bpart2of2%7D%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-03 The Mystery of King Tut's Tomb (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-03%20-%20The%20Mystery%20of%20King%20Tut%27s%20Tomb%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-04 The Mystery of the Hollywood Phantom [Part 01] (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-04%20-%20The%20Mystery%20of%20the%20Hollywood%20Phantom%20%7Bpart1of2%7D%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-05 The Mystery of the Hollywood Phantom [Part 02] (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-05%20-%20The%20Mystery%20of%20the%20Hollywood%20Phantom%20%7Bpart2of2%7D%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-06 The Mystery of the African Safari (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-06%20-%20The%20Mystery%20of%20the%20African%20Safari%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-07 The Creatures Who Came on Sunday (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-07%20-%20The%20Creatures%20Who%20Came%20on%20Sunday%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-08 The Strange Fate of Flight 608 (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-08%20-%20The%20Strange%20Fate%20of%20Flight%20608%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-09 Acapulco Spies (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-09%20-%20Acapulco%20Spies%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-10 Nancy Drew's Love Match (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-10%20-%20Nancy%20Drew%27s%20Love%20Match%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-11 The Mystery of the Silent Scream (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-11%20-%20The%20Mystery%20of%20the%20Silent%20Scream%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-12 Will the Real Santa Claus...? (1977)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-12%20-%20Will%20the%20Real%20Santa%20Claus.....%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-13 The Lady on Thursday at Ten (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-13%20-%20The%20Lady%20on%20Thursday%20at%20Ten%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-14 Oh Say Can You Sing (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-14%20-%20Oh%20Say%20Can%20You%20Sing%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-15 The House on Possessed Hill (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-15%20-%20The%20House%20on%20Possessed%20Hill%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-16 Sole Survivor (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-16%20-%20Sole%20Survivor%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-17 Voodoo Doll [Part 01] (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-17%20-%20Voodoo%20Doll%20%7Bpart1of2%7D%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-18 Voodoo Doll [Part 02] (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-18%20-%20Voodoo%20Doll%20%7Bpart2of2%7D%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-19 Mystery of the Avalanche Express (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-19%20-%20Mystery%20of%20the%20Avalanche%20Express%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-20 Death Surf (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-20%20-%20Death%20Surf%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-21 Arson & Old Lace (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-21%20-%20Arson%20&%20Old%20Lace%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 02-22 The Campus Terror (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2002/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%202-22%20-%20The%20Campus%20Terror%20-%20DVD2XviD.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-01 The Last Kiss of Summer [Part 01] (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2001%20-%20The%20Last%20Kiss%20of%20Summer%2C%20Part%201.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-02 The Last Kiss of Summer [Part 02] (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2002%20-%20The%20Last%20Kiss%20of%20Summer%2C%20Part%202.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-03 Assault on the Tower (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2003%20-%20Assault%20on%20the%20Tower.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-04 Search for Atlantis (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2004%20-%20Search%20for%20Atlantis.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-05 Dangerous Waters (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2005%20-%20Dangeros%20Waters.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-06 Scorpion's Sting (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2006%20-%20Scorpion%27s%20Sting.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-07 Defection to Paradise [Part 01] (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2007%20-%20Defection%20to%20Paradise%2C%20Part%201.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-08 Defection to Paradise [Part 02] (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2008%20-%20Defection%20to%20Paradise%2C%20Part%202.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-09 Game Plan (1978)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2009%20-%20Game%20Plan.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rFDRqdw.jpg" group-title="HARDY BOYS",The Hardy Boys - 03-10 Life on the Line (1979)
-https://archive.org/download/HardyBoysNancyDrew/Season%2003/The%20Hardy%20Boys%20-%20Nancy%20Drew%20Mysteries%20-%2010%20-%20Life%20on%20the%20Line.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e01 The Volunteer (1977)
-https://archive.org/download/Wings_201703/Wings-The%20Volunteer%20s01e001.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e02 Never Turn Back (1977)
-https://archive.org/download/Wings_201703/Wings-Never%20Turn%20Back%20s01e02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e03 Welcome to France (1977)
-https://archive.org/download/Wings_201703/Wings-Welcome%20to%20France%20s01e03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e04 Business as Usual (1977)
-https://archive.org/download/Wings_201703/Wings-Business%20as%20Usual%20s01e04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e05 Speaking From Experience (1977)
-https://archive.org/download/Wings_201703/Wings-Speaking%20From%20Experience%20s01e05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e06 Over the Top (1977)
-https://archive.org/download/Wings_201703/Wings-Over%20the%20Top%20s01e06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e07 Time Out of War (1977)
-https://archive.org/download/Wings_201703/Wings-Time%20Out%20of%20War%20s01e07.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e08 The Hunters (1977)
-https://archive.org/download/Wings_201703/Wings-The%20Hunters%20s01e08.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e09 New Deal (1977)
-https://archive.org/download/Wings_201703/Wings-New%20Deal%20s01e09.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e10 The Burning Question (1977)
-https://archive.org/download/Wings_201703/Wings-The%20Burning%20Question%20s01e010.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e11 The Prisoner's Friend (1977)
-https://archive.org/download/Wings_201703/Wings-The%20Prisoner%27s%20Friend%20s01e011.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6WXtStw.jpg" group-title="WINGS",Wings - s01e12 Welcome Home (1977)
-https://archive.org/download/Wings_201703/Wings-Welcome%20Home%20s01e012.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S1E1 A Touch of Class (1975)
-https://archive.org/download/FawltyTowers/S1E1.A%20Touch%20of%20Class.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S1E2 The Builders (1975)
-https://archive.org/download/FawltyTowers/S1E2.The%20Builders.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S1E3 The Wedding Party (1975)
-https://archive.org/download/FawltyTowers/S1E3.The%20Wedding%20Party.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S1E4 The Hotel Inspectors (1975)
-https://archive.org/download/FawltyTowers/S1E4.The%20Hotel%20Inspectors.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S1E5 Gourmet Night (1975)
-https://archive.org/download/FawltyTowers/S1E5.Gourmet%20Night.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S1E6 The Germans (1975)
-https://archive.org/download/FawltyTowers/S1E6.The%20Germans.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S2E1 Communication Problems (1979)
-https://archive.org/download/FawltyTowers/S2E1.Communication%20Problems.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S2E2 The Psychiatrist (1979)
-https://archive.org/download/FawltyTowers/S2E2.The%20Psychiatrist.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S2E3 Waldorf Salad (1979)
-https://archive.org/download/FawltyTowers/S2E3.Waldorf%20Salad.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S2E4 The Kipper and the Corpse (1979)
-https://archive.org/download/FawltyTowers/S2E4.The%20Kipper%20and%20the%20Corpse.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S2E5 The Anniversary (1979)
-https://archive.org/download/FawltyTowers/S2E5.The%20Anniversary.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PnwD0L4.jpg" group-title="FAWLTY TOWERS",Fawlty Towers - S2E6 Basil the Rat (1979)
-https://archive.org/download/FawltyTowers/S2E6.Basil%20the%20Rat.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Day of the Dragon (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%201966%20-%20Day%20of%20the%20Dragon%20-%20Great%20TV%20Animated%20Cartoon.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Puppet Master (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%201966%20-%20Puppet%20Master%20-%20Full%20Cartoon%20Episode.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - The Ghost Tribe of Comanche Flats (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%201966%20-%20The%20Ghost%20Tribe%20of%20Comanche%20Flats%20-%20Visually%20Stunning%20Cartoon%21.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Valley of the Dead (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%201966%20-%20Valley%20of%20the%20Dead%20-%20spectacular%20full%20western%20cartoon.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Wrath of the Sun God (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%201966%20-%20Wrath%20of%20the%20Sun%20God%20-%20Full%20Length%20Cartoon.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - A Time to Die! (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%201966%20-%20a%20Time%20to%20Die%21%20Unique%20and%20Classic%20TV%20Animated%20Cartoon.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Bear Claw (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Bear%20Claw%20-%20Full%20TV%20Animated%20Show%20Episode.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Circus of Death (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Circus%20of%20Death%20-%20Full%20&%20Complete%20Episode.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Crack of Doom (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Crack%20of%20Doom.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Curse of the Devil Dolls (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Curse%20of%20the%20Devil%20Dolls%20-%201960s%20TV%20show.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Day at Death Head Pass (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Day%20at%20Death%20Head%20Pass.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Fire Rain! (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Fire%20Rain%21%20-%20Rare%20Classic%20Western%20Episode.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Forest of Death (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Forest%20of%20Death%20-%20Western%20TV%20show.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Hunter and Hunted (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Hunter%20and%20Hunted%20-%20Full%20Episode.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - It Came From Below (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20It%20Came%20From%20Below%20-Lost%20Classic%20Western%20Cartoon%20TV%20Show.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Man from Pinkerton (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Man%20from%20Pinkerton%20-%20Full%20Episode%20of%20the%20Vintage%20Retro%20Animated%20TV%20Show.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Mr. Happy (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Mr.%20Happy%20-%20Vintage%20Saturday%20Morning%20Cartoon%20Full%20Episode.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Mr. Midas (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Mr.Midas%20-.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Taka (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Taka%20-%20Full%20Episode%20of%20Classic%20TV%20Show.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - The Black Knight of Death (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20The%20Black%20Knight%20Of%20Death.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - The Deadly Glass Man (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20The%20Deadly%20Glass%20Man.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - The Fly (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20The%20Fly%20-%20Full%20&%20Complete%20Episode.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - The Frog People (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20The%20Frog%20People%20-%20Full%20Episode%20Steampunk%20Animated%20Western.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - The Human Dynamo! (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20The%20Human%20Dynamo%21%20-%20Steampunk%20Action.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Tonto and the Devil Spirits (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Tonto%20and%20the%20Devil%20Spirits%20-%20Full%20Vintage%20TV%20Episode.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fkA8scZ.jpg" group-title="LONE RANGER",The Lone Ranger - Town Tamers Inc. (1966)
-https://archive.org/download/LoneRangerCartoon1966CrackOfDoom/Lone%20Ranger%20Cartoon%201966%20-%20Town%20Tamers%20Inc.%20-%20Action%20Western.mp4
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/casper/images/8/80/Casper_the_Friendly_Ghost.jpg" group-title="CASPER",Casper The Friendly Ghost - Spooking About Africa (1956)
-https://archive.org/download/CasperTheFriendlyGhostTheater/5.SpookingAboutAfrica1956.mp4
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/casper/images/8/80/Casper_the_Friendly_Ghost.jpg" group-title="CASPER",Casper The Friendly Ghost - Boo Moon (1953)
-https://archive.org/download/CasperTheFriendlyGhostTheater/4.BooMoon1953.mp4
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/casper/images/8/80/Casper_the_Friendly_Ghost.jpg" group-title="CASPER",Casper The Friendly Ghost - Pig-A-Boo (1952)
-https://archive.org/download/CasperPigABoo1952/Casper%20Pig-A-Boo%20-%201952.mp4
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/casper/images/8/80/Casper_the_Friendly_Ghost.jpg" group-title="CASPER",Casper The Friendly Ghost - Boo Hoo Baby (1951)
-https://archive.org/download/CasperTheFriendlyGhost03BooHooBabyMs/Casper%20The%20Friendly%20Ghost%2003%20Boo%20Hoo%20Baby%20ms.mp4
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/casper/images/8/80/Casper_the_Friendly_Ghost.jpg" group-title="CASPER",Casper The Friendly Ghost - A Haunting We Will Go (1949)
-https://archive.org/download/CasperTheFriendlyGhostTheater/3.AHauntingWeWillGo1949.mp4
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/casper/images/8/80/Casper_the_Friendly_Ghost.jpg" group-title="CASPER",Casper The Friendly Ghost - There's Good Boos Tonight (1948)
-https://archive.org/download/CasperTheFriendlyGhostTheater/2.TheresGoodBoosTonight1948.mp4
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/casper/images/8/80/Casper_the_Friendly_Ghost.jpg" group-title="CASPER",Casper The Friendly Ghost - The Friendly Ghost (1945)
-https://archive.org/download/TheFriendlyGhost1945/The%20Friendly%20Ghost%20(1945).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Trailer
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Trailer%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - A Tale of Two Gumbys (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/A%20Tale%20of%20Two%20Gumbys%20-%20_Robot%20Rumpus_.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Gumby Racer (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Gumby%20Racer%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Gopher Trouble (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Gopher%20Trouble%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Lost and Found (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Lost%20and%20Found%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Richochet Pete (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Richochet%20Pete%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Too Loo (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Too%20Loo%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Toy Joy (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Toy%20Joy%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Toy Crazy (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Toy%20Crazy%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Hidden Valley (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Hidden%20Valley%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Yard Work Made Easy (1994)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Yard%20Work%20Made%20Easy%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - A Bone for Nopey (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20A%20Bone%20for%20Nopey%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - All Broken Up (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20All%20Broken%20Up%201968%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Behind The Puffball (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Behind%20The%20Puffball%201968%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Bully for Gumby (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Bully%20for%20Gumby%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Point of Honor (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Point%20Of%20Honor%201968%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Stuck on Books (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Stuck%20on%20Books%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Wishful Thinking (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Wishful%20Thinking%201968%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Wishfull Thinking* (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Wishfull%20Thinking%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - El Toro (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20El%20Toro%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Gabby Auntie (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Gabby%20Auntie%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Pokey Minds The Baby (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Pokey%20Minds%20The%20Baby%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Turnip Trap (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Turnip%20Trap%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Gold Rush Gumby (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gold%20Rush%20Gumby%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - A Lovely Bunch of Coconuts (1968)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/G%20&%20P%20-%20A%20Lovely%20Bunch%20Of%20Coconuts%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Haunted Hot Dog (1967)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Haunted%20Hot%20Dog%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Hot Ice (1967)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Hot%20Ice%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Indian Trouble (1967)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Indian%20Trouble%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Mystic Magic (1967)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Mystic%20Magic%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Piano Rolling Blues (1967)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Piano%20Rolling%20Blues%201967%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Prickle Turns Artist (1967)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Prickle%20Turns%20Artist%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Shady Lemonade (1967)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Shady%20Lemonade%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Moon Boggles (1967)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20The%20Moon%20Boggles%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - A Hair Raising Adventure (1964)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%201964%20-%20A%20Hair%20Raising%20Adventure%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Pigeon in a Plum Tree (1962)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Pigeon%20in%20a%20Plum%20Tree%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Small Planets (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Small%20Planets%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Small Planets* (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20The%20REAL%20Small%20Planets%20(Yes,%20this%20is%20THAT%20one)%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Zoops (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20The%20Zoops%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Zoops* (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20The%20Zoops%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Hidden Valley (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Hidden%20Valley%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - King for a Day (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20King%20for%20a%20Day%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Rain for Roo (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Rain%20for%20Roo%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Glob (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20The%20Glob%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Glob* (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20The%20Glob%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Groobee (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20The%20Groobee%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Witty Witch (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20The%20Witty%20Witch%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Chicken Feed (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Chicken%20Feed%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Even Steven (1960)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20_%20Even%20Steven%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Racing Game (1957)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20The%20Racing%20Game%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Rain Spirits (1957)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Rain%20Spirits%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Rain Spirits* (1957)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20-%20Rain%20Spirits%20Cartoon%20Episode%20Video%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Lion Around (1955)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Lion%20Around%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Robot Rumpus (1955)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20Robot%20Rumpus%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Fantastic Farmer (1955)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20The%20Fantastic%20Farmer%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - The Little Lost Pony (1955)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20Adventures%20-%20The%20Little%20Lost%20Pony%20(1).mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lf7QZbYWq_U/maxresdefault.jpg" group-title="GUMBY",Gumby - Gumby on the Moon (1955)
-https://archive.org/download/GumbyAdventuresPigeonInAPlumTree1/GUMBY/Gumby%20on%20the%20Moon%20(1).mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Air Race (1959)
-https://archive.org/download/clutchcargocartooonscollection/CLUTCH%20CARGO%20Air%20Race.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Crop Dusters (1959)
-https://archive.org/download/clutchcargocartooonscollection/CLUTCH%20CARGO%20Crop%20Dusters.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Mister Abominable (1959)
-https://archive.org/download/clutchcargocartooonscollection/CLUTCH%20CARGO%20Mister%20Abominable.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Pipeline To Danger (1959)
-https://archive.org/download/clutchcargocartooonscollection/CLUTCH%20CARGO%20Pipeline%20To%20Danger.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Elephant Nappers (1959)
-https://archive.org/download/clutchcargocartooonscollection/CLUTCH%20CARGO%20The%20Elephant%20Nappers.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Race Car Mystery (1959)
-https://archive.org/download/clutchcargocartooonscollection/CLUTCH%20CARGO%20The%20Race%20Car%20Mystery.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Rocket Riot (1959)
-https://archive.org/download/clutchcargocartooonscollection/CLUTCH%20CARGO%20The%20Rocket%20Riot%20Episode%207.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Twaddle In Africa (1959)
-https://archive.org/download/clutchcargocartooonscollection/CLUTCH%20CARGO%20Twaddle%20In%20Africa.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Operation Moon Beam (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20%20Operation%20Moon%20Beam%20(1959)%20%20%20Cartoon%20Classic%20Keepsakes.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Big X (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20-%20Big%20X.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Space Station (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20-%20Space%20Station.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Rustlers (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20-%20The%20Rustlers.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Alaskan Pilot (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20ALASKAN%20PILOT.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Cheddar Cheaters (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20CHEDDAR%20CHEATERS.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Dead End (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20Dead%20End.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - Mystery In The Northwoods (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20MYSTERY%20IN%20THE%20NORTHWOODS.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Dinky Incas (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20THE%20DINKY%20INCAS.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Case of Ripcord Van Winkle (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo-%20The%20Case%20of%20Ripcord%20Van%20Winkle.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Case of Ripcord Van Winkle (1959)*
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20The%20Case%20Of%20Ripcord.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Missing Mermaid (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20The%20Missing%20Mermaid.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Pearl Pirates (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20The%20Pearl%20Pirates.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Rustlers Clark Haas (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20The%20Rustlers%20Clark%20Haas.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Desert Queen (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo%20in%20The%20Desert%20Queen.mp4
-#EXTINF:-1 tvg-logo="http://cartoonresearch.com/wp-content/uploads/2013/06/clutch344.jpg" group-title="CLUTCH CARGO",Clutch Cargo - The Blunderbird (1959)
-https://archive.org/download/clutchcargocartooonscollection/Clutch%20Cargo-%20The%20Blunderbird.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e01 Colonel Bleep’s Arrival on Earth (1956)
-https://archive.org/download/colonelbleep_s1/s01e01_ColonelBleepsArrivalOnEarth.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e03 Danger Below (1957)
-https://archive.org/download/colonelbleep_s1/s01e03_DangerBelow.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e04 Dangerous Holiday (1957)
-https://archive.org/download/colonelbleep_s1/s01e04_DangerousHoliday.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e07 Knight of Death (1957)
-https://archive.org/download/colonelbleep_s1/s01e07_KnightOfDeath.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e08 Manhunt on the Moon (1957)
-https://archive.org/download/colonelbleep_s1/s01e08_ManhuntOnTheMoon.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e11 Scratch and His Feathered Friend (1957)
-https://archive.org/download/colonelbleep_s1/s01e11_ScratchAndHisFeatheredFriend.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e13 Shadows of Suspicion (1957)
-https://archive.org/download/colonelbleep_s1/s01e13_ShadowsOfSuspicion.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e14 Squeek and the Terrible Termite
-https://archive.org/download/colonelbleep_s1/s01e14_SqueekAndTheTerribleTermite.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e15 Test of Friendship (1957)
-https://archive.org/download/colonelbleep_s1/s01e15_TestOfFriendship.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e16 The Bat and the Bottle (1957)
-https://archive.org/download/colonelbleep_s1/s01e16_BatAndTheBottle_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e18 The Evil Eye (1957)
-https://archive.org/download/colonelbleep_s1/s01e18_EvilEye_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e19 The Firebomb (1957)
-https://archive.org/download/colonelbleep_s1/s01e19_Firebomb_The.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e22 The Hypnotic Helmets (1957)
-https://archive.org/download/colonelbleep_s1/s01e22_HypnoticHelmets_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e23 The Ingenious Invention (1957)
-https://archive.org/download/colonelbleep_s1/s01e23_IngeniousInvention_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e24 The Invisible Gorilla (1957)
-https://archive.org/download/colonelbleep_s1/s01e24_InvisibleGorilla_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e25 The Killer Whale (1957)
-https://archive.org/download/colonelbleep_s1/s01e25_KillerWhale_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e26 The Lunar Luger (1957)
-https://archive.org/download/colonelbleep_s1/s01e26_LunarLuger_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e27 The Pirate Plot (1957)
-https://archive.org/download/colonelbleep_s1/s01e27_PiratePlot_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e28 The Prehistoric Present (1957)
-https://archive.org/download/colonelbleep_s1/s01e28_PrehistoricPresent_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e30 Treacherous Pirate (1957)
-https://archive.org/download/colonelbleep_s1/s01e30_TreacherousPirate.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e31 The Treacherous Trio (1957)
-https://archive.org/download/colonelbleep_s1/s01e31_TreacherousTrio_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e33 The Wicked Web (1957)
-https://archive.org/download/colonelbleep_s1/s01e33_WickedWeb_the.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e34 Tunnel In Space (1957)
-https://archive.org/download/colonelbleep_s1/s01e34_TunnelInSpace.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NaXAsra.jpg" group-title="COLONEL BLEEP",Colonel Bleep - s01e35 War In Robotland (1957)
-https://archive.org/download/colonelbleep_s1/s01e35_WarInRobotland.mp4
-#EXTINF:-1 tvg-logo="https://portadas.seriesgato.com/the-mighty-heroes-116101-cover.jpg" group-title="MIGHTY HEROES",The Mighty Heroes - The Stretcher (1966)
-https://archive.org/download/THEMIGHTYHEROEScartoonscollection/CLASSIC%20CARTOONS_%20MIGHTY%20HEROES%20%236%20THE%20STRETCHER%201966%20Cartoon%20classic.mp4
-#EXTINF:-1 tvg-logo="https://portadas.seriesgato.com/the-mighty-heroes-116101-cover.jpg" group-title="MIGHTY HEROES",The Mighty Heroes - The Bigger Digger (1966)
-https://archive.org/download/THEMIGHTYHEROEScartoonscollection/Mighty%20Heroes.mp4
-#EXTINF:-1 tvg-logo="https://portadas.seriesgato.com/the-mighty-heroes-116101-cover.jpg" group-title="MIGHTY HEROES",The Mighty Heroes - Plastic Blaster (1966)
-https://archive.org/download/THEMIGHTYHEROEScartoonscollection/The%20Mighty%20Heroes%20-%20Plastic%20Blaster.mp4
-#EXTINF:-1 tvg-logo="https://portadas.seriesgato.com/the-mighty-heroes-116101-cover.jpg" group-title="MIGHTY HEROES",The Mighty Heroes - The Scarecrow (1966)
-https://archive.org/download/THEMIGHTYHEROEScartoonscollection/The%20Mighty%20Heroes%20-%20The%20Scarecrow%20[1966].mp4
-#EXTINF:-1 tvg-logo="https://portadas.seriesgato.com/the-mighty-heroes-116101-cover.jpg" group-title="MIGHTY HEROES",The Mighty Heroes - The Monsterizer (1966)
-https://archive.org/download/THEMIGHTYHEROEScartoonscollection/The%20Mighty%20Heros%20The%20Monsterizer.mp4
-#EXTINF:-1 tvg-logo="https://portadas.seriesgato.com/the-mighty-heroes-116101-cover.jpg" group-title="MIGHTY HEROES",The Mighty Heroes - The Shocker (1966)
-https://archive.org/download/THEMIGHTYHEROEScartoonscollection/The%20Mighty%20Heros%20The%20Shocker.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Public Enemies 1 and 2 (1960)
-https://archive.org/download/FelixTheCatPublicEnemies1And2/1960-FelixTheCat-PublicEnemiesNumber12_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - King of The Moon (1959)
-https://archive.org/download/BannedCartoonsTransLuxFelixTheCatKingOfTheMoonVeryGood/Banned%20Cartoons%20-%20Trans-Lux%20-%20Felix%20The%20Cat%20-%20King%20Of%20The%20Moon%20-%20Very%20Good.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Ghostly Concert (1958)
-https://archive.org/download/FelixTheCatTheater/FelixTheCat1959GhostlyConcert_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Bold King Cole (1936)
-https://archive.org/download/Felix_BoldKingCole/Felix_BoldKingCole_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Neptune Nonsense (1936)
-https://archive.org/download/Felix_NeptuneNonsense/Felix_NeptuneNonsense_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - The Goose That Laid the Golden Egg (1936)
-https://archive.org/download/felix_the_cat_the_goos_that_laid_the_golden_egg/felix_the_cat_the_goos_that_laid_the_golden_egg_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Candy Town (1931)
-https://archive.org/download/FelixTheCatTheater/FelixTheCat-CandyTown1931_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - April Maze (1930)
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Felix%20The%20Cat%201930%20April%20Maze%20(N%26b).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - April Maze (1930)*
-https://archive.org/download/AprilMaze1930/April%20Maze%20(1930).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - April Maze (1930)**
-https://archive.org/download/FelixAprilMaze/felix_april_maze_instr_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - April Maze (1930)***
-https://archive.org/download/Felix_AprilMaze_NoAudio/Felix_AprilMaze_NoAudio_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Woos Whoopee (1930)
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Felix%20The%20Cat%20-%201930%20-%20Woos%20Whoopee.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - One Good Turn (1929)
-https://archive.org/download/ClassicToonFavorites/Felix_the_Cat_-_One_Good_Turn.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Comicalamities (1928)
-https://archive.org/download/FelixTheCatInComicalamities/FelixTheCat-Comicalamities1928-03-18.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Futuritzy (1928)
-https://archive.org/download/19280624FelixTheCatFuturitzyPatSullivan/1928-06-24%20-%20Felix%20the%20Cat%20-%20Futuritzy%20-%20Pat%20Sullivan.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Sure-Locked Homes (1928)
-https://archive.org/download/FelixTheCatInSure-lockedHome/FelixFin_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Sure-Locked Homes (1928)*
-https://archive.org/download/FelixTheCatInSureLockedHome/FelixInSureLockedHome_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Flim Flam Films (1927)
-https://archive.org/download/FlimFlamFilms1927/Flim%20Flam%20Films%20(1927).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Flim Flam Films (1927)*
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Felix%20The%20Cat%20-%20Flim%20Flam%20Films%20-%201927.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Germ Mania (1927)
-https://archive.org/download/FlimFlamFilms1927/Germ%20Mania%20(1927).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Romeeow (1927)
-https://archive.org/download/CartoonCluster105/FelixtheCat1927Romeeow.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - The Non-Stop Fright (1927)
-https://archive.org/download/FelixTheCat-TheNonStopFright1927/FelixTheCatInNonStopFright1927_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Whys and Otherwise (1927)
-https://archive.org/download/FlimFlamFilms1927/Whys%20and%20Otherwise%20(1927).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Busts a Bubble (1926)
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Felix%20The%20Cat%20-%201926%20-%20Felix%20Busts%20A%20Bubble%20(1926).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Two-Lip Time (1926)
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Cartoon%20-%20Felix%20The%20Cat%20-%20(1926)%20Two-Lip%20Time.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Two-Lip Time (1926)*
-https://archive.org/download/AprilMaze1930/Two-Lip%20Time%20(1926).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Two-Lip Time (1926)**
-https://archive.org/download/FelixTheCatClassicCartoons/FelixTheCat-TwoLipTime.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Two-Lip Time (1926)***
-https://archive.org/download/Felix_TwoLipTime_NoAudio/Felix_TwoLipTime_NoAudio_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Trifles With Time (1925)
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Felix%20The%20Cat%20-%20(1925)%20-%20Felix%20Trifles%20With%20Time.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Monkeys With Magic 1925
-https://archive.org/download/FelixTheCatTheater/Felix-theCat-1925Pb-MonkeysWithMagicrelquiaDoCinemaMudo_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - All Balled Up (1924)
-https://archive.org/download/AprilMaze1930/Felix%20All%20Balled%20Up%20(1924).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - All Balled Up (1924)*
-https://archive.org/download/Felix_the_cat-all_balled_up/Felix_the_Cat-All_balled_up_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - All Balled Up (1924)**
-https://archive.org/download/FelixTheCat-AllBalledUp/Feloix-AllBalledUp_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - All Puzzled (1924)
-https://archive.org/download/AprilMaze1930/Felix%20All%20Puzzled%20(1924).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - All Puzzled (1924)*
-https://archive.org/download/FelixTheCatClassicCartoons/FelixTheCat-AllPuzzled.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Doubles for Darwin (1924)
-https://archive.org/download/AprilMaze1930/Felix%20Doubles%20for%20Darwin%20(1924).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Doubles for Darwin (1924)*
-https://archive.org/download/FelixTheCatClassicCartoons/FelixDoublesForDarwin.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Doubles for Darwin (1924)**
-https://archive.org/download/FelixTheCat-DoublesForDarwin1923/FelixTheCat-1923-FelixDoublesForDarwin_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Doubles for Darwin (1924)***
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Felix%20The%20Cat%20-%20Felix%20Doubles%20For%20Darwin.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Doubles for Darwin (1924)****
-https://archive.org/download/Felix_DoublesforDarwin_NoAudio/Felix_DoublesforDarwin_NoAudio_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Goes West (1924)
-https://archive.org/download/AprilMaze1930/Felix%20Goes%20West%20(1924).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Goes West (1924)*
-https://archive.org/download/FelixGoesWest_104/FelixGoesWest_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Finds Out (1924)
-https://archive.org/download/AprilMaze1930/Felix%20Finds%20Out%20(1924).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Finds Out (1924)*
-https://archive.org/download/FELIXTHECATFELIXFINDSOUT/FFO_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Gets the Can (1924)
-https://archive.org/download/AprilMaze1930/Felix%20Gets%20the%20Can%20(1924).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Out of Luck (1924)
-https://archive.org/download/FelixTheCatTheater/FelixTheCat-FelixOutOfLuck1924_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Goes A-Huntin (1923)
-https://archive.org/download/FelixTheCat-FelixGoesA-huntin1923/FelixTheCat-1923-FelixGoesA-hunting_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix in Fairyland (1923)
-https://archive.org/download/FelixTheCat-FelixInFairyland1923/FelixTheCat-1923-FelixInFairyland_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix in Hollywood (1923)
-https://archive.org/download/AprilMaze1930/Felix%20in%20Hollywood%20(1923).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix in Hollywood (1923)*
-https://archive.org/download/FelixTheCatFelixInHollywood1923/Felix%20the%20Cat%20%20Felix%20in%20Hollywood%20(1923).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix in Hollywood (1923)**
-https://archive.org/download/FelixTheCat-FelixInHollywood1923/FelixTheCat-1923-FelixInHollywood_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix in Hollywood (1923)***
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Van%20Beuren%20-%20Felix%20the%20Cat%20-%20In%20Hollywood%20(1923).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Revolts (1923)
-https://archive.org/download/FelixTheCat-FelixRevolts1923/FelixTheCat-1923-FelixRevolts_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix the Ghost Breaker (1923)
-https://archive.org/download/FelixTheCat-FelixTheGhostBreaker1923/FelixTheCat-1923-FelixTheGhostBreaker_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix In the Swim (1922)
-https://archive.org/download/AprilMaze1930/Felix%20In%20the%20Swim%20(1922).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix In the Swim (1922)*
-https://archive.org/download/Felix_the_cat-in_the_swim/Felix_the_Cat-In_the_swim_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix In the Swim (1922)**
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Felix%20the%20Cat%20-%20Felix%20In%20The%20Swim%20(1922).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix In the Swim (1922)***
-https://archive.org/download/FelixTheCat-CatInTheSwim1922/fexebs.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix In the Swim (1922)****
-https://archive.org/download/FelixTheCat-InTheSwim/Felix-InTheSwim_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Lends A Hand (1922)
-https://archive.org/download/FelixTheCatFelixLendsAHand1922/Felix%20The%20Cat%20-%20Felix%20Lends%20A%20Hand%20(1922).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Lends A Hand (1922)*
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/Felix%20The%20Cat%20-%20Felix%20Lends%20A%20Hand%20(1922).mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Minds the Kid (1922)
-https://archive.org/download/FelixTheCat-FelixMindsTheKid1922/FelixTheCat-1922-FelixMindsTheKid_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Saves the Day (1922)
-https://archive.org/download/FelixTheCat-FelixSavesTheDay1922/FelixTheCat-1922-FelixSavesTheDay_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Felix Turns the Tide (1922)
-https://archive.org/download/FelixTheCat-FelixTurnsTheTide1922/FelixTheCat-1922-FelixTurnsTheTide_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - The Stone Age (1922)
-https://archive.org/download/FelixTheCat-TheStoneAge1922/FelixTheCat-1922-TheStoneAge_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Feline Follies (1919)
-https://archive.org/download/FelixTheCat-FelineFollies1919/FelixTheCat-1919-FelineFollies_512kb.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5IYaYV1.jpg" group-title="FELIX",Felix the Cat - Bud and Suzie - Down The Mississippi (1919)
-https://archive.org/download/CartoonFelixTheCat1926TwoLipTime/%7BCartoon%7D%20Felix%20The%20Cat%20-%20Bud%20&%20Suzie%20in%20Down%20The%20Mississippi%20(1919).mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xv0oCva.jpg" group-title="UB IWERKS",UB Iwerks - The Brave Tin Soldier (1934)
 https://archive.org/download/SOLDIER/SOLDIER_256k.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xv0oCva.jpg" group-title="UB IWERKS",UB Iwerks - Aladdin and His Wonderful Lamp (1934)
