@@ -242,6 +242,7 @@ cursor:crosshair
                   //  unlink($filename);
 
                   $handle = fopen($filename, "w");
+                  echo "OK SAVE"
 
                   if (!$handle)
                     $status = "<font face='Verdana' style='font-size: 8pt'>Could not open file for write access! </font>";
@@ -258,13 +259,12 @@ cursor:crosshair
                 }
                 ?>
               <table border="0" align="center">
-
+                <form method="post" action="">
                 <tr>
                   <td>
                     <table width="100%" border="0">
                       <tr>
                         <td>
-                          <form method="post" action="">
                             <input name="filename" type="text" value="<?php echo $filename; ?>" size="20">
                             <input type="submit" name="Open" value="Open">
                             <input type="submit" name="Delete" value="Delete">
