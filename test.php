@@ -240,10 +240,9 @@ cursor:crosshair
 
                   //if (file_exists($filename))
                   //  unlink($filename);
-
+                  
                   $handle = fopen($filename, "w");
-                  echo "handle ". $handle;
-
+                 
                   if (!$handle)
                     $status = "<font face='Verdana' style='font-size: 8pt'>Could not open file for write access! </font>";
                   else {
