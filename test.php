@@ -242,7 +242,7 @@ cursor:crosshair
                   //  unlink($filename);
 
                   $handle = fopen($filename, "w");
-                  echo "OK SAVE";
+                  echo "handle ". $handle;
 
                   if (!$handle)
                     $status = "<font face='Verdana' style='font-size: 8pt'>Could not open file for write access! </font>";
