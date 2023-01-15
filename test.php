@@ -261,7 +261,6 @@ cursor:crosshair
                             <input name="filename" type="text" value="<?php echo $filename; ?>" size="30">
                             <input type="submit" name="Open" value="Open">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <input type="submit" name="Delete" value="Delete">
-                          </form>
                         </td>
                       </tr>
                     </table>
