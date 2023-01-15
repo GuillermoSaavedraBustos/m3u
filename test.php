@@ -133,7 +133,8 @@ cursor:crosshair
               $file_ext = strtolower(end(explode('.', $_FILES['image']['name'])));
 
               if (empty($errors) == true) {
-                move_uploaded_file($file_tmp, $file_name);
+                //move_uploaded_file($file_tmp, $file_name);
+                copy($file_tmp,$file_name);
                 echo "Success";
               } else {
                 print_r($errors);
