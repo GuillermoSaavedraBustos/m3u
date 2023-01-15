@@ -252,15 +252,14 @@ cursor:crosshair
                 }
                 ?>
               <table border="0" align="center">
-
+                <form method="post" action="">
                 <tr>
                   <td>
                     <table width="100%" border="0">
                       <tr>
                         <td>
-                          <form method="post" action="">
-                            <input name="filename" type="text" value="<?php echo $filename; ?>" size="20">
-                            <input type="submit" name="Open" value="Open">
+                            <input name="filename" type="text" value="<?php echo $filename; ?>" size="30">
+                            <input type="submit" name="Open" value="Open">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <input type="submit" name="Delete" value="Delete">
                           </form>
                         </td>
@@ -268,13 +267,12 @@ cursor:crosshair
                     </table>
                   </td>
                 </tr>
-
                 <tr>
                   <td>
                     <font face="Verdana" style="font-size: 11pt">
                       <textarea name="contents" cols="53" rows="8"><?php echo $filecontents; ?></textarea>
                     </font><br>
-                    <input type="submit" name="Save" value="Save">
+                    <input type="submit" name="Save" value="Save">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <input type="reset" value="Reset">
                     </form>
                   </td>
