@@ -172,44 +172,27 @@ cursor:crosshair
               <div align="center" style="overflow:auto; width:99%; height:175">
                 <?php
                 $directorio = opendir('./');
-while ($archivo = readdir($directorio)){
-    //verificamos si es o no un directorio
-    if (is_dir($archivo)){
-        //si es el directorio . o .. no lo mostramos
-        if($archivo!="." AND $archivo!=".."){
-            $check_if_have_content=false;
-            //obtener el contenido del directorio
-            $contenido=opendir("./".$archivo);
-          if (is_readable($contenido){
-            while($archivocontent = readdir($contenido)){
-                //Verificamos que no sea ni el directorio . ni el ..
-                if($archivocontent!="." AND $archivocontent!=".."){
-                    //Verificamos si es un directorio
-                    if(is_dir($archivo."/".$archivocontent)){
-                        //Si es un directorio y contiene directorios. Se mostrará
-                        $contenido_2=opendir("./".$archivo."/".$archivocontent);
-                        if(isset($contenido_2)){
-                            while($archivocontent_2=readdir($contenido_2)){
-                                //Verificamos si tiene algo dentro del fichero, que no sea una carpeta y que sea un .php
-                                if($archivocontent_2!="." AND $archivocontent_2!=".."){
-                                    if(!is_dir($archivo."/".$archivocontent."/".$archivocontent_2)){
-                                        if(pathinfo($archivocontent_2, PATHINFO_EXTENSION)=="php"){
-                                            $check_if_have_content=true;
-                                        }
-                                    }
-                                }
-                            }
+                
+                function listar_directorios_ruta($ruta){
+                   // abrir un directorio y listarlo recursivo
+                   if (is_dir($ruta)) {
+                    if ($dh = opendir($ruta)){
+                      echo "<br /><strong>$ruta</strong>"; // Aqui se imprime el nombre de la carpeta o directorio
+                      
+                      while (($file = readdir($dh)) !== false){
+                        //if (is_dir($ruta . $file) && $file!="." && $file!="..") // Si se desea mostrar solo directorios
+                        if ($file!="." && $file!="..") {// Si se desea mostrar directorios y archivos
+                          //solo si el archivo es un directorio, distinto que "." y ".."
+                          echo "<br />$ruta$file"; // Aqui se imprime el nombre del Archivo con su ruta relativa
+                          listar_directorios_ruta($ruta . $file . DIRECTORY_SEPARATOR); // Ahora volvemos a llamar la función
                         }
+                      }
+                      closedir($dh);
                     }
-                }
-            }
-              }
-            if($check_if_have_content==true){
-                echo "<p class='DOCcontenido_t'>".$archivo."</p>";
-            }
-        }
-    }
-}
+                   }
+                 }
+
+
                 ?>
               </div>
               <p align="center">&nbsp;
