@@ -171,18 +171,21 @@ cursor:crosshair
                 <br>
               <div align="center" style="overflow:auto; width:99%; height:175">
                 <?php
+                <?
                 $folder=opendir('./');
                 while ($file = readdir($folder)) {
                 if($file != "." && $file != ".."){
-                  if (is_dir($file)) {
+                                    if (is_dir($file)) {
                     echo "<br /><strong>$file</strong>";
-                  }else{
-                    echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
-                  }
+                                    }else{
+                  echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                                    }
                 }
                 }
                 closedir($folder);
                 ?>
+
+
               </div>
               <p align="center">&nbsp;
           </td>
