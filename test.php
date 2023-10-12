@@ -173,12 +173,13 @@ cursor:crosshair
                 <?php
                 $folder=opendir('./');
                 while ($file = readdir($folder)) {
-                if($file != "." && $file != "..")
+                if($file != "." && $file != ".."){
                   if (is_dir($file)) {
                     echo "<br /><strong>$file</strong>";
                   }else{
                     echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
                   }
+                }
                 }
                 closedir($folder);
                 ?>
