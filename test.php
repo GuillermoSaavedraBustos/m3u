@@ -174,34 +174,13 @@ cursor:crosshair
                 $folder=opendir('./');
                 while ($file = readdir($folder)) {
                 if($file != "." && $file != "..")
-                  if (is_dir($ruta)) {
-                    echo "<br /><strong>$ruta</strong>"
+                  if (is_dir($file)) {
+                    echo "<br /><strong>$file</strong>"
                   }else{
                     echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
                   }
                 }
                 closedir($folder);
-                
-                function listar_directorios_ruta($ruta){
-                   // abrir un directorio y listarlo recursivo
-                   if (is_dir($ruta)) {
-                    if ($dh = opendir($ruta)){
-                      echo "<br /><strong>$ruta</strong>"; // Aqui se imprime el nombre de la carpeta o directorio
-                      
-                      while (($file = readdir($dh)) !== false){
-                        //if (is_dir($ruta . $file) && $file!="." && $file!="..") // Si se desea mostrar solo directorios
-                        if ($file!="." && $file!="..") {// Si se desea mostrar directorios y archivos
-                          //solo si el archivo es un directorio, distinto que "." y ".."
-                          echo "<br />$ruta$file"; // Aqui se imprime el nombre del Archivo con su ruta relativa
-                          listar_directorios_ruta($ruta . $file . DIRECTORY_SEPARATOR); // Ahora volvemos a llamar la función
-                        }
-                      }
-                      closedir($dh);
-                    }
-                   }
-                 }
-
-
                 ?>
               </div>
               <p align="center">&nbsp;
@@ -238,6 +217,7 @@ cursor:crosshair
               <p align="center">
 
                 <?php
+                $open="";
                 $scriptname = empty($_SERVER['SCRIPT_NAME']) ? '' : $_SERVER['SCRIPT_NAME'];
                 $filename = empty($_POST["filename"]) ? '' : $_POST["filename"];
 
