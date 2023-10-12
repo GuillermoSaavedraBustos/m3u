@@ -174,13 +174,14 @@ cursor:crosshair
                 $directorio = opendir('./');
 while ($archivo = readdir($directorio)){
     //verificamos si es o no un directorio
-    if (!is_readable(is_dir($archivo))){
+    if (is_dir($archivo)){
         //si es el directorio . o .. no lo mostramos
         if($archivo!="." AND $archivo!=".."){
             $check_if_have_content=false;
             //obtener el contenido del directorio
             $contenido=opendir("./".$archivo);
-            while($archivocontent = !is_readable(readdir($contenido))){
+          if (is_readable($contenido){
+            while($archivocontent = readdir($contenido)){
                 //Verificamos que no sea ni el directorio . ni el ..
                 if($archivocontent!="." AND $archivocontent!=".."){
                     //Verificamos si es un directorio
@@ -202,6 +203,7 @@ while ($archivo = readdir($directorio)){
                     }
                 }
             }
+              }
             if($check_if_have_content==true){
                 echo "<p class='DOCcontenido_t'>".$archivo."</p>";
             }
