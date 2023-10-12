@@ -171,8 +171,17 @@ cursor:crosshair
                 <br>
               <div align="center" style="overflow:auto; width:99%; height:175">
                 <?php
-                $directorio = opendir('./');
-                 listar_directorios_ruta($directorio);
+                $folder=opendir('./');
+                while ($file = readdir($folder)) {
+                if($file != "." && $file != "..")
+                  if (is_dir($ruta)) {
+                    echo "<br /><strong>$ruta</strong>"
+                  }else{
+                    echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                  }
+                }
+                closedir($folder);
+                
                 function listar_directorios_ruta($ruta){
                    // abrir un directorio y listarlo recursivo
                    if (is_dir($ruta)) {
