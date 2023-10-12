@@ -174,9 +174,14 @@ cursor:crosshair
 $folder=opendir('./');
 while ($file = readdir($folder)) {
   if($file != "." && $file != ".."){
-                                    if (is_dir($file)) 
-                    echo "<br /><strong>$file</strong>";
-                                    else
+                                    if (is_dir($file)) {
+                    echo "<br /><strong>$file</strong><br>";
+                    $ndir = $file;
+                    if(is_readable($ndir)){
+                    while (($file = readdir($ndir)) !== false){
+                      echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                    }}
+                                    }else
                   echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
                 }
                 }
