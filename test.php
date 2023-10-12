@@ -180,7 +180,7 @@ while ($archivo = readdir($directorio)){
             $check_if_have_content=false;
             //obtener el contenido del directorio
             $contenido=opendir("./".$archivo);
-            while($archivocontent = readdir($contenido)){
+            while($archivocontent = !is_readable(readdir($contenido))){
                 //Verificamos que no sea ni el directorio . ni el ..
                 if($archivocontent!="." AND $archivocontent!=".."){
                     //Verificamos si es un directorio
