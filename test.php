@@ -170,7 +170,7 @@ cursor:crosshair
               <p align="center">
                 <br>
               <div align="center" style="overflow:auto; width:99%; height:175">
-                <?php
+                <?ph
                 $folder=opendir('./');
                 while ($file = readdir($folder)) {
                 if($file != "." && $file != ".."){
