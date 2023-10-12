@@ -171,13 +171,43 @@ cursor:crosshair
                 <br>
               <div align="center" style="overflow:auto; width:99%; height:175">
                 <?php
-                $folder = opendir('./');
-                while ($file = readdir($folder)) {
-                  if ($file != "." && $file != "..") {
-                    echo "<a target='blank' href=" . $file . ">" . $file . "</a><br>";
-                  }
+                $directorio = opendir('./');
+while ($archivo = readdir($directorio)){
+    //verificamos si es o no un directorio
+    if (is_dir($archivo)){
+        //si es el directorio . o .. no lo mostramos
+        if($archivo!="." AND $archivo!=".."){
+            $check_if_have_content=false;
+            //obtener el contenido del directorio
+            $contenido=opendir("./".$archivo);
+            while($archivocontent = readdir($contenido)){
+                //Verificamos que no sea ni el directorio . ni el ..
+                if($archivocontent!="." AND $archivocontent!=".."){
+                    //Verificamos si es un directorio
+                    if(is_dir($archivo."/".$archivocontent)){
+                        //Si es un directorio y contiene directorios. Se mostrará
+                        $contenido_2=opendir("./".$archivo."/".$archivocontent);
+                        if(isset($contenido_2)){
+                            while($archivocontent_2=readdir($contenido_2)){
+                                //Verificamos si tiene algo dentro del fichero, que no sea una carpeta y que sea un .php
+                                if($archivocontent_2!="." AND $archivocontent_2!=".."){
+                                    if(!is_dir($archivo."/".$archivocontent."/".$archivocontent_2)){
+                                        if(pathinfo($archivocontent_2, PATHINFO_EXTENSION)=="php"){
+                                            $check_if_have_content=true;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
                 }
-                closedir($folder);
+            }
+            if($check_if_have_content==true){
+                echo "<p class='DOCcontenido_t'>".$archivo."</p>";
+            }
+        }
+    }
+}
                 ?>
               </div>
               <p align="center">&nbsp;
