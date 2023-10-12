@@ -174,7 +174,7 @@ cursor:crosshair
                 $directorio = opendir('./');
 while ($archivo = readdir($directorio)){
     //verificamos si es o no un directorio
-    if (is_dir($archivo)){
+    if (is_readable(is_dir($archivo))){
         //si es el directorio . o .. no lo mostramos
         if($archivo!="." AND $archivo!=".."){
             $check_if_have_content=false;
