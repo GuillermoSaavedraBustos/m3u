@@ -171,44 +171,24 @@ cursor:crosshair
                 <br>
               <div align="center" style="overflow:auto; width:99%; height:175">
                 <?php
-                function obtener_estructura_directorios($ruta) {
-  // Array para guardar el directorio y los archivos
-  $mi_estructura = [];
-  // Se comprueba que realmente sea la ruta de un directorio
-  if (is_dir($ruta)) {
-    // Abre un gestor de directorios para la ruta indicada
-    $gestor = opendir($ruta);
-    echo "<ul>";
-    // Recorre todos los elementos del directorio
-    while (($archivo = readdir($gestor)) !== false)  {
-      $ruta_completa = $ruta . "/" . $archivo;
-      // Mostramos todos los archivos y directorios excepto "." y ".."
-      if ($archivo != "." && $archivo != "..") {
-        echo "<li>" . $archivo . "</li>";
-        // Si es un directorio se recorre recursivamente
-        if (is_dir($ruta_completa)) {
-          // Añadimos el array (recursivo) del siguiente directorio 
-          $mi_estructura = array_merge($mi_estructura, obtener_estructura_directorios($ruta_completa));
-          // Si es un archivo añadimos ruta/archivo al Array
-        }else {
-          $mi_estructura[] = ['ruta' => $ruta.'/', 'archivo' => $archivo];
-        }
-      }
-    }
-    // Cierra el gestor de directorios
-    closedir($gestor);
-    echo "</ul>";
-  } else echo "$ruta No es una ruta de directorio valida<br/>";
-  // Devolvemos el array del directorio actual  
-  return $mi_estructura;
-}
-$resultado = obtener_estructura_directorios('../');
-
-// Mostramos contenido del Array
-echo '<h2>Contenido del Array</h2>';
-for($i=0; $i<count($resultado); $i++) {
-  echo $resultado[$i]['ruta'].$resultado[$i]['archivo'].'<br>';
-}
+                $folder=opendir('./');
+                  while ($file = readdir($folder)) {
+                    if($file != "." && $file != ".."){
+                      if (is_dir($file)) {
+                        echo "<br /><strong>$file</strong><br>";
+                        if(is_readable($file) && is_dir($file)){
+                          $ndir = $file;
+                          $folder=opendir($ndir);
+                          while (($file = readdir($folder)) !== false){
+                            echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                          }
+                          closedir($$ndir);
+                        }
+                      }else
+                        echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                    }
+                  }
+                  closedir($folder);
                 ?>
 
 
