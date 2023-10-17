@@ -233,7 +233,7 @@ cursor:crosshair
                 <?php
                 $scriptname = empty($_SERVER['SCRIPT_NAME']) ? '' : $_SERVER['SCRIPT_NAME'];
                 $filename = empty($_POST["filename"]) ? '' : $_POST["filename"];
-
+                $status ="";
                 if (empty($_POST["submit"]))
                   $_POST["submit"] = "";
 
