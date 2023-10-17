@@ -189,7 +189,6 @@ cursor:crosshair
                         }
                       }else{
                         echo '<a target="blank" href='.$file.'>./'.$file.'</a><br>';
-                        echo "----<br>";
                       }
                     }
                   }
@@ -265,11 +264,11 @@ cursor:crosshair
                   //if (file_exists($filename))
                   //  unlink($filename);
 
-                  $handle = fopen($filename, "w");
-                  echo "handle ".$handle;
+                  $handle = fopen($filename, "w+");
+                  //echo "handle ".$handle;
 
                   if (!$handle)
-                    $status = "<font face='Verdana' style='font-size: 8pt'>Could not open file for write access! </font>";
+                    $status = "<font face='Verdana' style='font-size: 8pt'>Could not open file for write access! ".$handle."</font>";
                   else {
                     if (!fwrite($handle, $filecontents))
                       $status = $status . "<font face='Verdana' style='font-size: 8pt'>Could not write to file! (Maybe you didn't enter any text?)</font>";
