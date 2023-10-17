@@ -176,8 +176,8 @@ cursor:crosshair
                     if($file != "." && $file != ".."){
                       if (is_dir($file)) {
                         echo "<br /><strong>$file</strong><br>";
-                        $ndir = $file;
                         if(is_readable($ndir)){
+                          $ndir = $file;
                           while (($file = readdir($ndir)) !== false){
                             echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
                           }
