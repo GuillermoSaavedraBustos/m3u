@@ -188,7 +188,7 @@ cursor:crosshair
 
                         }
                       }else
-                        echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                        echo '<a target="blank" href='.$file.'>XXXXXXXXXXXXXXX '.$file.'</a><br>';
                     }
                   }
                   closedir($folder);
