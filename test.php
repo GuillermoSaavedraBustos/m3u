@@ -175,7 +175,7 @@ cursor:crosshair
                   while ($file = readdir($folder)) {
                     if($file != "." && $file != ".."){
                       if (is_dir($file)) {
-                        echo "<br /><strong>$file</strong><br>";
+                        echo "<br /><strong>Folder: $file</strong><br>";
                         if(is_readable($file) && is_dir($file)){
                           $ndir = $file;
                           $folder1=opendir($ndir);
@@ -188,7 +188,7 @@ cursor:crosshair
 
                         }
                       }else
-                        echo '<a target="blank" href='.$file.'>Folder '.$file.'</a><br>';
+                        echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
                     }
                   }
                   closedir($folder);
