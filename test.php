@@ -240,7 +240,7 @@ cursor:crosshair
                 if (empty($filecontents))
                   $filecontents = "";
 
-                if ($_POST["Open"] == "Open") {
+                if (isset($_POST["Open"]) == "Open") {
                   if (file_exists($filename)) {
                     $filecontents = htmlentities(file_get_contents($filename));
 
