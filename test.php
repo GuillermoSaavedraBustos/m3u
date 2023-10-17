@@ -172,7 +172,7 @@ cursor:crosshair
               <div align="center" style="overflow:auto; width:99%; height:175">
                 <?php
                 $folder=opendir('./');
-                  while ($file = readdir($folder)) {
+                  while ($file =  scandir($folder,1)) {
                     if($file != "." && $file != ".."){
                       if (is_dir($file)) {
                         echo "<br /><strong>Folder: $file</strong><br>";
@@ -189,6 +189,7 @@ cursor:crosshair
                         }
                       }else{
                         echo '<a target="blank" href='.$file.'>./'.$file.'</a><br>';
+                        echo "----<br>";
                       }
                     }
                   }
@@ -250,7 +251,7 @@ cursor:crosshair
                       $status = "<font face='Verdana' style='font-size: 8pt'>Error or No contents in file</font>";
                   } else
                     $status = "<font face='Verdana' style='font-size: 8pt'>File does not exist!</font>";
-                } else if ($_POST["Delete"] == "Delete") {
+                } else if (isset($_POST["Delete"]) == "Delete") {
                   if (file_exists($filename)) {
                     if (unlink($filename))
                       $status = "<font face='Verdana' style='font-size: 8pt'>File successfully deleted!</font>";
@@ -258,7 +259,7 @@ cursor:crosshair
                       $status = "<font face='Verdana' style='font-size: 8pt'>Could not delete file!</font>";
                   } else
                     $status = "<font face='Verdana' style='font-size: 8pt'>File does not exist!</font>";
-                } else if ($_POST["Save"] == "Save") {
+                } else if (isset($_POST["Save"]) == "Save") {
                   $filecontents = stripslashes(html_entity_decode($_POST["contents"]));
 
                   //if (file_exists($filename))
