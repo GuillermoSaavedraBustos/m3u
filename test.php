@@ -178,12 +178,14 @@ cursor:crosshair
                         echo "<br /><strong>$file</strong><br>";
                         if(is_readable($file) && is_dir($file)){
                           $ndir = $file;
-                          $folder=opendir($ndir);
-                          while (($file = readdir($folder)) !== false){
-                            if($file != "." && $file != "..")
-                              echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                          $folder1=opendir($ndir);
+                          while (($file1 = readdir($folder1)) !== false){
+                            if($file1 != "." && $file1 != "..")
+                              echo '<a target="blank" href="'.$ndir.'/'.$file1.'">'.$ndir.'/'.$file1.'</a><br>';
                           }
-                          closedir($folder);
+                          closedir($folder1);
+                          echo "termino";
+
                         }
                       }else
                         echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
@@ -228,7 +230,6 @@ cursor:crosshair
               <p align="center">
 
                 <?php
-                $open="";
                 $scriptname = empty($_SERVER['SCRIPT_NAME']) ? '' : $_SERVER['SCRIPT_NAME'];
                 $filename = empty($_POST["filename"]) ? '' : $_POST["filename"];
 
@@ -237,7 +238,6 @@ cursor:crosshair
 
                 if (empty($filecontents))
                   $filecontents = "";
-
 
                 if ($_POST["Open"] == "Open") {
                   if (file_exists($filename)) {
