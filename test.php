@@ -184,11 +184,11 @@ cursor:crosshair
                               echo '<a target="blank" href="'.$ndir.'/'.$file1.'">'.$ndir.'/'.$file1.'</a><br>';
                           }
                           closedir($folder1);
-                          echo "----";
+                          echo "----<br>";
 
                         }
                       }else
-                        echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                        echo '<a target="blank" href='.$file.'>Folder '.$file.'</a><br>';
                     }
                   }
                   closedir($folder);
