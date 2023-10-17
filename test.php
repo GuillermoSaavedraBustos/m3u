@@ -187,8 +187,9 @@ cursor:crosshair
                           echo "----<br>";
 
                         }
-                      }else
+                      }else{
                         echo '<a target="blank" href='.$file.'>./'.$file.'</a><br>';
+                      }
                     }
                   }
                   closedir($folder);
