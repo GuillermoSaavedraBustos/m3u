@@ -180,9 +180,10 @@ cursor:crosshair
                           $ndir = $file;
                           $folder=opendir($ndir);
                           while (($file = readdir($folder)) !== false){
-                            echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
+                            if($file != "." && $file != "..")
+                              echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
                           }
-                          closedir($$ndir);
+                          closedir($folder);
                         }
                       }else
                         echo '<a target="blank" href='.$file.'>'.$file.'</a><br>';
