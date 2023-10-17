@@ -245,7 +245,7 @@ cursor:crosshair
                   if (file_exists($filename)) {
                     $filecontents = htmlentities(file_get_contents($filename));
 
-                    echo "$filecontents";
+                    //echo "$filecontents";
 
                     if (!$filecontents)
                       $status = "<font face='Verdana' style='font-size: 8pt'>Error or No contents in file</font>";
