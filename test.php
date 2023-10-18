@@ -181,7 +181,7 @@ cursor:crosshair
                           $folder1=opendir($ndir);
                           while (($file1 = readdir($folder1)) !== false){
                             if($file1 != "." && $file1 != "..")
-                              echo '<a target="blank" href="'.$ndir.'/'.$file1.'">'.$ndir.'/'.$file1.'</a> '.substr(decoct(fileperms(fileperms($ndir.'/'.$file1)),3).'<br>' ;
+                              echo '<a target="blank" href="'.$ndir.'/'.$file1.'">'.$ndir.'/'.$file1.'</a> '.substr(decoct(fileperms($ndir.'/'.$file1)),3).'<br>' ;
                           }
                           closedir($folder1);
                           echo "----<br>";
