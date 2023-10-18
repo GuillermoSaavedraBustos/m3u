@@ -181,14 +181,14 @@ cursor:crosshair
                           $folder1=opendir($ndir);
                           while (($file1 = readdir($folder1)) !== false){
                             if($file1 != "." && $file1 != "..")
-                              echo '<a target="blank" href="'.$ndir.'/'.$file1.'">'.$ndir.'/'.$file1.'</a><br>' ;
+                              echo '<a target="blank" href="'.$ndir.'/'.$file1.'">'.$ndir.'/'.$file1.'</a> '.fileperms($ndir.'/'.$file1).'<br>' ;
                           }
                           closedir($folder1);
                           echo "----<br>";
 
                         }
                       }else{
-                        echo '<a target="blank" href='.$file.'>./'.$file.'</a>'.fileperms($file).'<br>';
+                        echo '<a target="blank" href='.$file.'>./'.$file.'</a> '.substr(decoct(fileperms($file)),2).'<br>';
                       }
                     }
                   }
