@@ -62,6 +62,16 @@ cursor:crosshair
                 <?php echo $_SERVER['SERVER_NAME'] ?><br>
                 <b>Server Protocol:</b>
                 <?php echo $_SERVER['SERVER_PROTOCOL'] ?><br>
+                <b>Server Protocol:</b>
+                <?php echo $_SERVER['SERVER_ADDR'] ?><br>
+                <b>Server HTTP POST:</b>
+                <?php echo $_SERVER['HTTP_HOST'] ?><br>
+                <b>REMOTE ADDR:</b>
+                <?php echo $_SERVER['REMOTE_ADDR'] ?><br>
+                <b>REMOTE HOST:</b>
+                <?php echo $_SERVER['REMOTE_HOST'] ?><br>
+                <b>PHP INFO</b>
+                <?php echo phpinfo() ?><br>
               </font>
         </tr>
       </table><br />
