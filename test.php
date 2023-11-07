@@ -71,7 +71,7 @@ cursor:crosshair
                 <b>REMOTE HOST:</b>
                 <?php echo $_SERVER['REMOTE_HOST'] ?><br>
                 <b>PHP INFO</b>
-                <?php echo phpinfo() ?><br>
+                <?php echo phpinfo(INFO_GENERAL) ?><br>
               </font>
         </tr>
       </table><br />
